@@ -29,4 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveshgrewal&show_icons=true&locale=en" alt="praveshgrewal" /></p>
 
-
+              - name: Dynamic Readme
+                uses: praveshgrewal/action-dynamic-readme@1.2
+            

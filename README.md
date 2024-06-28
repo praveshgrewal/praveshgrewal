@@ -27,13 +27,13 @@
 
 
 
-<picture align="center">
+<p align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
-</picture>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveshgrewal&show_icons=true&locale=en&layout=compact" alt="praveshgrewal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveshgrewal&show_icons=true&locale=en" alt="praveshgrewal" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=praveshgrewal&show_icons=true&locale=en" alt="praveshgrewal" /></p>
 
             

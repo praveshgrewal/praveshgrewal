@@ -41,7 +41,7 @@
 
 - 💬 Ask me about **, Python and Data-Science**
 
-- 📫 How to reach me **gurahpravesh@gmail.com**
+- 📫 How to reach me **Grewalpravesh@outlook.com**
 
 
 

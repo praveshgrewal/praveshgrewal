@@ -1,4 +1,4 @@
-![logo](Pravesh.png)
+![logo](git_pic.png)
 
 
 <h1 align="center">Hi 👋, I'm Pravesh Grewal</h1>

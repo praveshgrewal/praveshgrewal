@@ -33,19 +33,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **my life**
+🔭 Currently working on improving myself & my skills
 
-- 🌱 I’m currently learning **Machine Learning**
+🌱 Learning: Machine Learning, Cybersecurity & Data Science
+
+💬 Ask me about: Python, Data Science, Machine Learning, and Cybersecurity
+
+📫 Reach me at: Grewalpravesh@outlook.com
+
+⚡ Fun fact: I take life seriously, but I enjoy every bit of the learning journey!
 
 
-
-- 💬 Ask me about **, Python and Data-Science**
-
-- 📫 How to reach me **Grewalpravesh@outlook.com**
-
-
-
-- ⚡ Fun fact **I think I'm Serious about life**
 
 <br>
 <h3 align="left">Connect with me:</h3>

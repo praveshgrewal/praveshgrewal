@@ -5,9 +5,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Data+Scientist+from+India;Python+|+Machine+Learning+|+Cybersecurity;Always+Learning+and+Building+💡&v=3"
-    alt="Typing SVG"
-  />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Data+Scientist+from+India;Python+|+Machine+Learning+|+Cybersecurity;Always+Learning+and+Building+💡&v=3"   />
 </p>
 
 ---
@@ -35,12 +33,36 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-<a href="https://linkedin.com/in/pravesh-grewal"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://medium.com/@studyjiger"><img src="https://skillicons.dev/icons?i=medium" height="40" /></a>
-<a href="https://www.youtube.com/@grewalcode"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
-<a href="https://www.instagram.com/codegrewal"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="mailto:Grewalpravesh@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/pravesh-grewal" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@studyjiger" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="40" alt="Medium"/>
+  </a>
+
+ 
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@grewalcode" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40" alt="YouTube"/>
+  </a>  
+  
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/codegrewal" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="40" alt="Instagram"/>
+  </a>
+
+  
+
+  <!-- Email -->
+  <a href="mailto:Grewalpravesh@outlook.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Email"/>
+  </a>
 </p>
+
 
 ---
 
@@ -76,13 +98,6 @@
 
 </div>
 
----
 
-## 🎉 Fun Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
-</p>
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=✨Data%20+%20Algorithms%20+%20Curiosity%20=%20Endless%20Possibilities✨&fontSize=20&fontColor=fff&v=3)

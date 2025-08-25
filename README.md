@@ -74,9 +74,10 @@
 
 ---
 
+
 ## 🏆 Achievements & Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praveshgrewal&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&v=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=praveshgrewal&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---

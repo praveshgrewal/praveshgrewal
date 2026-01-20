@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Hi%20I'm%20Pravesh%20Grewal&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-<h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | Cybersecurity Learner</h3>
+<h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast </h3>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -22,9 +22,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🌟 About Me  
-- 🔭 Currently working on **exciting ML & Cybersecurity projects**  
-- 🌱 Learning **Machine Learning, Cybersecurity & Data Science**  
-- 💬 Ask me about **Python, Data Science, ML, Cybersecurity**  
+- 🔭 Currently working on **exciting ML & AI projects**  
+- 🌱 Learning **Machine Learning & Data Science**  
+- 💬 Ask me about **Python, Data Science, ML**  
 - 📫 Reach me at: **Grewalpravesh@outlook.com**  
 - ⚡ Fun fact: *I enjoy every bit of the learning journey 🚀*  
 

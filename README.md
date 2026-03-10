@@ -75,8 +75,8 @@
 ---
 
 
-## 🏆 Achievements & Trophies  
-<p align="center">
+## 🏆 Achievements & Trophie
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=praveshgrewal&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
@@ -87,7 +87,7 @@
 <div align="center">
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=praveshgrewal&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&v=3)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveshgrewal&layout=compact&theme=tokyonight&v=3)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveshgrewal&layout=compact&theme=tokyonight&v=3)   -->
 
 <!-- Streak Stats -->
 <img

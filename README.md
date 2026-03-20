@@ -62,7 +62,7 @@ motto:     "Learn it. Build it. Break it. Repeat."
 
 </td>
 <td width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="coding gif"/>
+  <img src="https://raw.githubusercontent.com/praveshgrewal/praveshgrewal/main/profile.png" width="320" alt="coding gif"/>
 </td>
 </tr>
 </table>
@@ -368,17 +368,13 @@ class PraveshGrewal:
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-> ⚙️ **Setup required** — Add WakaTime to VS Code, then enable the
-> [WakaTime GitHub Action](https://github.com/marketplace/actions/waka-readme)
-> in your repo to auto-populate live coding stats here.
-
 ```text
-# 📊 This week's coding breakdown (auto-updates via GitHub Action)
-Python       ██████████████████░░░   18 hrs 24 mins  ████ 72%
-JavaScript   ████░░░░░░░░░░░░░░░░░    3 hrs 12 mins  ███  13%
-HTML/CSS     ██░░░░░░░░░░░░░░░░░░░    2 hrs 05 mins  ██    8%
-SQL          █░░░░░░░░░░░░░░░░░░░░    1 hr  18 mins  █     5%
-Other        █░░░░░░░░░░░░░░░░░░░░    0 hrs 38 mins        2%
+# 📊 This week's coding breakdown  (live once WakaTime action is enabled)
+Python       ██████████████████░░░   18 hrs 24 mins   72%
+JavaScript   ████░░░░░░░░░░░░░░░░░    3 hrs 12 mins   13%
+HTML/CSS     ██░░░░░░░░░░░░░░░░░░░    2 hrs 05 mins    8%
+SQL          █░░░░░░░░░░░░░░░░░░░░    1 hr  18 mins    5%
+Other        █░░░░░░░░░░░░░░░░░░░░    0 hrs 38 mins    2%
 ```
 <!--END_SECTION:waka-->
 
@@ -419,10 +415,9 @@ jobs:
 ## 📺 Latest from EntryGlobe
 
 <!-- YOUTUBE-CARDS:START — auto-updated via GitHub Action -->
-> ⚙️ **Setup required** — Enable the YouTube Cards GitHub Action below to
-> auto-fetch your latest EntryGlobe videos every day.
-
 [![EntryGlobe](https://img.shields.io/badge/▶%20Watch%20on%20YouTube-EntryGlobe%20—%20Start%20Here.%20Go%20Global.-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@entryglobe)
+
+> 📺 Auto video cards activate once the GitHub Action below is enabled — until then, click the button above!
 
 <!-- YOUTUBE-CARDS:END -->
 
@@ -472,7 +467,7 @@ Get your channel ID from: `youtube.com/@entryglobe` → About → Share → Copy
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=praveshgrewal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&fire=FF4F81&ring=7928CA&currStreakLabel=7928CA"/>
+<img src="https://streak-stats.demolab.com?user=praveshgrewal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7928CA&fire=FF4F81&currStreakLabel=7928CA&card_width=500" alt="GitHub Streak" />
 
 </div>
 
@@ -496,57 +491,17 @@ Get your channel ID from: `youtube.com/@entryglobe` → About → Share → Copy
 
 <div align="center">
 
-<!-- Once your GitHub Action runs once, replace this badge with the <picture> block from the details section below -->
-![snake](https://img.shields.io/badge/🐍_Contribution_Snake-Activate_via_GitHub_Action_below_%E2%86%93-7928ca?style=for-the-badge&labelColor=0d1117)
-
-> **After the Action runs**, paste this in place of the badge above:
-> ```html
-> <picture>
->   <source media="(prefers-color-scheme: dark)"
->     srcset="https://raw.githubusercontent.com/praveshgrewal/praveshgrewal/output/github-contribution-grid-snake-dark.svg"/>
->   <source media="(prefers-color-scheme: light)"
->     srcset="https://raw.githubusercontent.com/praveshgrewal/praveshgrewal/output/github-contribution-grid-snake.svg"/>
->   <img alt="contribution snake" src="https://raw.githubusercontent.com/praveshgrewal/praveshgrewal/output/github-contribution-grid-snake.svg" width="100%"/>
-> </picture>
-> ```
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/praveshgrewal/praveshgrewal/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/praveshgrewal/praveshgrewal/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/praveshgrewal/praveshgrewal/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
-<details>
-<summary>⚙️ <b>How to enable the contribution snake</b></summary>
-<br/>
 
-Create `.github/workflows/snake.yml` in your **profile repo** (`praveshgrewal/praveshgrewal`):
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: '0 0 * * *'    # runs daily
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: praveshgrewal
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After first run, the snake SVG will live at the URL already in the README above ✅
-
-</details>
 
 ---
 
@@ -568,8 +523,9 @@ After first run, the snake SVG will live at the URL already in the README above 
 
 <div align="center">
 
-### 💡 Dev Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💡 Dev Motto
+
+> *"Learn it. Build it. Break it. Repeat."* — Pravesh Grewal
 
 </div>
 

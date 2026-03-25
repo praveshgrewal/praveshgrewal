@@ -534,7 +534,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ```
 <!--END_SECTION:waka-->
 
-<details>
+<!-- <details>
 <summary>⚙️ <b>Enable live WakaTime stats</b></summary>
 <br/>
 
@@ -561,7 +561,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: true
 ```
 
-</details>
+</details> -->
 
 ---
 

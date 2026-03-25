@@ -485,7 +485,7 @@ class PraveshGrewal:
 [![EntryGlobe Banner](https://img.shields.io/badge/▶%20Watch%20on%20YouTube-EntryGlobe%20—%20Start%20Here.%20Go%20Global.-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@entryglobe)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-> 📺 Auto video cards will appear here once the GitHub Action is configured — see setup below.
+[![We have another reason as well, but they both are main #ai #entryglobe #datascience #tech](https://ytcards.demolab.com/?id=KJ29lHeKgos&title=We+have+another+reason+as+well%2C+but+they+both+are+main+%23ai+%23entryglobe+%23datascience+%23tech&lang=en&timestamp=1774450705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "We have another reason as well, but they both are main #ai #entryglobe #datascience #tech")](https://www.youtube.com/shorts/KJ29lHeKgos)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- <details>

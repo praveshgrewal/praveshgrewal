@@ -484,11 +484,11 @@ class PraveshGrewal:
 
 [![EntryGlobe Banner](https://img.shields.io/badge/▶%20Watch%20on%20YouTube-EntryGlobe%20—%20Start%20Here.%20Go%20Global.-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@entryglobe)
 
-<!-- YOUTUBE-CARDS:START -->
+<!-- BEGIN YOUTUBE-CARDS -->
 > 📺 Auto video cards will appear here once the GitHub Action is configured — see setup below.
-<!-- YOUTUBE-CARDS:END -->
+<!-- END YOUTUBE-CARDS -->
 
-<details>
+<!-- <details>
 <summary>⚙️ <b>Enable auto-fetch YouTube videos (one-time setup)</b></summary>
 <br/>
 
@@ -515,7 +515,7 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
 ```
 
-</details>
+</details> -->
 
 </div>
 

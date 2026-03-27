@@ -13,10 +13,10 @@
 <!-- ██ ROLE BADGES ██ -->
 <div align="center">
 
-![](https://img.shields.io/badge/🤖_AI_/_ML_Engineer-LLMs_·_RAG_·_Fine--Tuning-7928ca?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🔐_Cybersecurity-Ethical_Hacking_·_OSINT-ff4f81?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🌐_Full_Stack-Django_·_FastAPI_·_React-00bfff?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🎓_Educator-EntryGlobe_·_YouTube-FF0000?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🤖_AI_/_ML_Engineer-LLMs_·_RAG_·_Fine--Tuning-7928ca?style=for-the-badge&labelColor=2d2d2d)
+![](https://img.shields.io/badge/🔐_Cybersecurity-Ethical_Hacking_·_OSINT-ff4f81?style=for-the-badge&labelColor=2d2d2d)
+![](https://img.shields.io/badge/🌐_Full_Stack-Django_·_FastAPI_·_React-00bfff?style=for-the-badge&labelColor=2d2d2d)
+![](https://img.shields.io/badge/🎓_Educator-EntryGlobe_·_YouTube-FF0000?style=for-the-badge&labelColor=2d2d2d)
 
 </div>
 
@@ -25,15 +25,15 @@
 <!-- ██ STATUS BADGES ██ -->
 <div align="center">
 
-[![](https://img.shields.io/badge/🔴%20LIVE-Datatoa%20—%20AI%20Data%20Analysis%20Platform-ff4f81?style=for-the-badge&labelColor=0d1117)](https://github.com/praveshgrewal)
-[![](https://img.shields.io/badge/🎬%20ACTIVE-EntryGlobe%20YouTube%20Channel-7928ca?style=for-the-badge&labelColor=0d1117)](https://www.youtube.com/@entryglobe)
-[![](https://img.shields.io/badge/📍%20Location-India%20🇮🇳-00bfff?style=for-the-badge&labelColor=0d1117)](https://github.com/praveshgrewal)
+[![](https://img.shields.io/badge/🔴%20LIVE-Datatoa%20—%20AI%20Data%20Analysis%20Platform-ff4f81?style=for-the-badge&labelColor=2d2d2d)](https://github.com/praveshgrewal)
+[![](https://img.shields.io/badge/🎬%20ACTIVE-EntryGlobe%20YouTube%20Channel-7928ca?style=for-the-badge&labelColor=2d2d2d)](https://www.youtube.com/@entryglobe)
+[![](https://img.shields.io/badge/📍%20Location-India%20🇮🇳-00bfff?style=for-the-badge&labelColor=2d2d2d)](https://github.com/praveshgrewal)
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=praveshgrewal&label=Profile+Views&color=7928ca&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/praveshgrewal?label=Followers&style=for-the-badge&color=ff4f81&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/praveshgrewal?label=Total+Stars&style=for-the-badge&color=00bfff&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/praveshgrewal?label=Followers&style=for-the-badge&color=ff4f81&labelColor=2d2d2d)
+![Stars](https://img.shields.io/github/stars/praveshgrewal?label=Total+Stars&style=for-the-badge&color=00bfff&labelColor=2d2d2d)
 
 </div>
 
@@ -90,7 +90,7 @@
 <td width="42%" align="center" valign="middle">
 
 <picture>
-  <img alt="Pravesh Grewal — Animated Terminal" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&width=380&height=220&lines=%24+whoami;%3E+Pravesh+Grewal;%24+cat+skills.txt;%3E+LLMs+%7C+RAG+%7C+Deep+Learning;%3E+Ethical+Hacking+%7C+OSINT;%24+ls+projects%2F;%3E+datatoa%2F+entryglobe%2F;%24+echo+%24MOTTO;%3E+Learn.+Build.+Break.+Repeat." />
+  <img alt="Pravesh Grewal — Animated Terminal" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=7928ca&center=true&vCenter=true&multiline=true&width=380&height=220&lines=%24+whoami;%3E+Pravesh+Grewal;%24+cat+skills.txt;%3E+LLMs+%7C+RAG+%7C+Deep+Learning;%3E+Ethical+Hacking+%7C+OSINT;%24+ls+projects%2F;%3E+datatoa%2F+entryglobe%2F;%24+echo+%24MOTTO;%3E+Learn.+Build.+Break.+Repeat." />
 </picture>
 
 <br/><br/>
@@ -113,7 +113,7 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/STATUS-🔴%20ACTIVE%20DEV-ff4f81?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STATUS-🔴%20ACTIVE%20DEV-ff4f81?style=for-the-badge&labelColor=2d2d2d"/>
 
 ### 🤖 Datatoa
 **AI-Powered One-Click Data Analysis Platform**
@@ -135,7 +135,7 @@ Upload any CSV → AI auto-analyzes → Instant charts + insights + downloadable
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/STATUS-🟢%20LIVE%20%26%20GROWING-00c853?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STATUS-🟢%20LIVE%20%26%20GROWING-00c853?style=for-the-badge&labelColor=2d2d2d"/>
 
 ### 🎓 EntryGlobe
 **Data Science Education on YouTube**
@@ -485,37 +485,9 @@ class PraveshGrewal:
 [![EntryGlobe Banner](https://img.shields.io/badge/▶%20Watch%20on%20YouTube-EntryGlobe%20—%20Start%20Here.%20Go%20Global.-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@entryglobe)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![What you think about this ? #ai #datascience #tech #entryglobe](https://ytcards.demolab.com/?id=wpfn2zcU-F8&title=What+you+think+about+this+%3F+%23ai+%23datascience+%23tech+%23entryglobe&lang=en&timestamp=1774544546&background_color=%23f6f8fa&title_color=%2324292e&stats_color=%23586069&max_title_lines=1&width=250&border_radius=5 "What you think about this ? #ai #datascience #tech #entryglobe")](https://www.youtube.com/shorts/wpfn2zcU-F8)
+[![We have another reason as well, but they both are main #ai #entryglobe #datascience #tech](https://ytcards.demolab.com/?id=KJ29lHeKgos&title=We+have+another+reason+as+well%2C+but+they+both+are+main+%23ai+%23entryglobe+%23datascience+%23tech&lang=en&timestamp=1774450705&background_color=%23f6f8fa&title_color=%2324292e&stats_color=%23586069&max_title_lines=1&width=250&border_radius=5 "We have another reason as well, but they both are main #ai #entryglobe #datascience #tech")](https://www.youtube.com/shorts/KJ29lHeKgos)
 <!-- END YOUTUBE-CARDS -->
-
-<!-- <details>
-<summary>⚙️ <b>Enable auto-fetch YouTube videos (one-time setup)</b></summary>
-<br/>
-
-Create `.github/workflows/youtube.yml`:
-
-```yaml
-name: Latest YouTube Videos
-on:
-  schedule:
-    - cron: '0 6 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: DenverCoder1/github-readme-youtube-cards@v1
-        with:
-          channel_id: UCxxxxxxxxxxxxxxxxxxxxxx   # replace with EntryGlobe channel ID
-          comment_tag_name: YOUTUBE-CARDS
-          max_videos: 4
-          card_width: 250
-          theme: dark
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-```
-
-</details> -->
 
 </div>
 
@@ -534,35 +506,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ```
 <!--END_SECTION:waka-->
 
-<!-- <details>
-<summary>⚙️ <b>Enable live WakaTime stats</b></summary>
-<br/>
-
-1. Install [WakaTime](https://wakatime.com) and connect to VS Code
-2. Get `WAKATIME_API_KEY` from [wakatime.com/settings](https://wakatime.com/settings)
-3. Add as GitHub Secret: **Settings → Secrets → WAKATIME_API_KEY**
-4. Create `.github/workflows/waka-readme.yml`:
-
-```yaml
-name: Waka Readme
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LINES_OF_CODE: true
-          SHOW_DAYS_OF_WEEK: true
-```
-
-</details> -->
-
 ---
 
 <!-- ██ GITHUB STATS ██ -->
@@ -570,27 +513,21 @@ jobs:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=praveshgrewal&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=praveshgrewal&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default&bg_color=00000000&title_color=7928ca&icon_color=ff4f81&text_color=555555" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveshgrewal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveshgrewal&layout=compact&hide_border=true&langs_count=8&theme=default&bg_color=00000000&title_color=7928ca&text_color=555555" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=praveshgrewal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7928CA&fire=FF4F81&currStreakLabel=7928CA&card_width=500" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=praveshgrewal&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7928CA&fire=FF4F81&currStreakLabel=7928CA&background=00000000&stroke=00000000&sideLabels=555555&dates=555555&currStreakNum=7928CA&sideNums=ff4f81&card_width=500" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveshgrewal&theme=react-dark&bg_color=0D1117&color=7928ca&line=ff4f81&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=praveshgrewal&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=6" width="100%"/> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveshgrewal&theme=github-compact&hide_border=true&bg_color=00000000&color=7928ca&line=ff4f81&point=7928ca&area=true" width="100%"/>
 
 </div>
 

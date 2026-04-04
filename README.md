@@ -13,10 +13,10 @@
 <!-- ██ ROLE BADGES ██ -->
 <div align="center">
 
-![](https://img.shields.io/badge/🤖_AI_/_ML_Engineer-LLMs_·_RAG_·_Fine--Tuning-7928ca?style=for-the-badge&labelColor=2d2d2d)
-![](https://img.shields.io/badge/🔐_Cybersecurity-Ethical_Hacking_·_OSINT-ff4f81?style=for-the-badge&labelColor=2d2d2d)
-![](https://img.shields.io/badge/🌐_Full_Stack-Django_·_FastAPI_·_React-00bfff?style=for-the-badge&labelColor=2d2d2d)
-![](https://img.shields.io/badge/🎓_Educator-EntryGlobe_·_YouTube-FF0000?style=for-the-badge&labelColor=2d2d2d)
+![](https://img.shields.io/badge/_AI_/_ML_Engineer-LLMs_·_RAG_·_Fine--Tuning-7928ca?style=for-the-badge&labelColor=2d2d2d)
+![](https://img.shields.io/badge/_Cybersecurity-Ethical_Hacking_·_OSINT-ff4f81?style=for-the-badge&labelColor=2d2d2d)
+![](https://img.shields.io/badge/_Full_Stack-Django_·_FastAPI_·_React-00bfff?style=for-the-badge&labelColor=2d2d2d)
+![](https://img.shields.io/badge/_Educator-EntryGlobe_·_YouTube-FF0000?style=for-the-badge&labelColor=2d2d2d)
 
 </div>
 
@@ -25,9 +25,9 @@
 <!-- ██ STATUS BADGES ██ -->
 <div align="center">
 
-[![](https://img.shields.io/badge/🔴%20LIVE-Datatoa%20—%20AI%20Data%20Analysis%20Platform-ff4f81?style=for-the-badge&labelColor=2d2d2d)](https://github.com/praveshgrewal)
-[![](https://img.shields.io/badge/🎬%20ACTIVE-EntryGlobe%20YouTube%20Channel-7928ca?style=for-the-badge&labelColor=2d2d2d)](https://www.youtube.com/@entryglobe)
-[![](https://img.shields.io/badge/📍%20Location-India%20🇮🇳-00bfff?style=for-the-badge&labelColor=2d2d2d)](https://github.com/praveshgrewal)
+[![](https://img.shields.io/badge/%20LIVE-Datatoa%20—%20AI%20Data%20Analysis%20Platform-ff4f81?style=for-the-badge&labelColor=2d2d2d)](https://github.com/praveshgrewal)
+[![](https://img.shields.io/badge/%20ACTIVE-EntryGlobe%20YouTube%20Channel-7928ca?style=for-the-badge&labelColor=2d2d2d)](https://www.youtube.com/@entryglobe)
+[![](https://img.shields.io/badge/%20Location-India%20🇮🇳-00bfff?style=for-the-badge&labelColor=2d2d2d)](https://github.com/praveshgrewal)
 
 <br/><br/>
 
@@ -42,7 +42,7 @@
 <!-- ██ QUICK STATS BAR ██ -->
 <div align="center">
 
-| 🤖 AI / ML Engineer | 🔐 Cybersecurity | 🌐 Full Stack Dev | 🎓 Data Science Educator | 🚀 Open Source Builder |
+|  AI / ML Engineer |  Cybersecurity |  Full Stack Dev |  Data Science Educator |  Open Source Builder |
 |:---:|:---:|:---:|:---:|:---:|
 | LLMs · RAG · GenAI | Pen Testing · OSINT | Django · FastAPI · React | YouTube · EntryGlobe | FastAPI · PythonAnywhere |
 
@@ -66,14 +66,14 @@
 ║  email     : Grewalpravesh@outlook.com   ║
 ╠══════════════════════════════════════════╣
 ║  roles:                                  ║
-║    🤖  AI / ML Engineer                  ║
-║    🔐  Cybersecurity Enthusiast           ║
-║    🌐  Full Stack Developer               ║
-║    🎓  Data Science Educator              ║
+║      AI / ML Engineer                  ║
+║      Cybersecurity Enthusiast           ║
+║      Full Stack Developer               ║
+║      Data Science Educator              ║
 ╠══════════════════════════════════════════╣
 ║  currently_building:                     ║
-║    → Datatoa (AI Data Platform) 🔴       ║
-║    → EntryGlobe (YouTube) 🟢             ║
+║    → Datatoa (AI Data Platform)       ║
+║    → EntryGlobe (YouTube)              ║
 ╠══════════════════════════════════════════╣
 ║  interests:                              ║
 ║    LLMs · RAG · LoRA Fine-tuning         ║
@@ -82,7 +82,7 @@
 ║    Django · FastAPI · React              ║
 ╠══════════════════════════════════════════╣
 ║  motto: "Learn it. Build it.             ║
-║          Break it. Repeat. 💥"           ║
+║          Break it. Repeat. "           ║
 ╚══════════════════════════════════════════╝
 ```
 
@@ -105,7 +105,7 @@
 ---
 
 <!-- ██ CURRENTLY BUILDING ██ -->
-## 💼 Currently Building
+##  Currently Building
 
 <div align="center">
 
@@ -113,9 +113,9 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/STATUS-🔴%20ACTIVE%20DEV-ff4f81?style=for-the-badge&labelColor=2d2d2d"/>
+<img src="https://img.shields.io/badge/STATUS-%20ACTIVE%20DEV-ff4f81?style=for-the-badge&labelColor=2d2d2d"/>
 
-### 🤖 Datatoa
+###  Datatoa
 **AI-Powered One-Click Data Analysis Platform**
 
 > *"Like ChatGPT, but for your data."*
@@ -135,9 +135,9 @@ Upload any CSV → AI auto-analyzes → Instant charts + insights + downloadable
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/STATUS-🟢%20LIVE%20%26%20GROWING-00c853?style=for-the-badge&labelColor=2d2d2d"/>
+<img src="https://img.shields.io/badge/STATUS-%20LIVE%20%26%20GROWING-00c853?style=for-the-badge&labelColor=2d2d2d"/>
 
-### 🎓 EntryGlobe
+###  EntryGlobe
 **Data Science Education on YouTube**
 
 > *"Start Here. Go Global."*
@@ -163,7 +163,7 @@ Teaching Python, SQL, Machine Learning, Power BI & Advanced Excel to aspiring da
 ---
 
 <!-- ██ PROJECT SHOWCASE ██ -->
-## 📌 Project Showcase
+##  Project Showcase
 
 <div align="center">
 
@@ -171,9 +171,9 @@ Teaching Python, SQL, Machine Learning, Power BI & Advanced Excel to aspiring da
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Datatoa — AI Data Platform
+###  Datatoa — AI Data Platform
 [![Repo](https://img.shields.io/badge/GitHub-Datatoa-7928ca?style=flat-square&logo=github)](https://github.com/praveshgrewal)
-![Status](https://img.shields.io/badge/🔴%20Active%20Dev-ff4f81?style=flat-square)
+![Status](https://img.shields.io/badge/%20Active%20Dev-ff4f81?style=flat-square)
 
 > One-click AI-powered data analysis using Claude SDK
 
@@ -183,14 +183,14 @@ Teaching Python, SQL, Machine Learning, Power BI & Advanced Excel to aspiring da
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**✅ AI insights** · **✅ Auto ML** · **✅ Chart generation** · **✅ PDF reports**
+** AI insights** · ** Auto ML** · ** Chart generation** · ** PDF reports**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 RAG Knowledge Engine
 [![Repo](https://img.shields.io/badge/GitHub-RAG%20Engine-7928ca?style=flat-square&logo=github)](https://github.com/praveshgrewal)
-![Status](https://img.shields.io/badge/🟡%20In%20Progress-ffd600?style=flat-square)
+![Status](https://img.shields.io/badge/%20In%20Progress-ffd600?style=flat-square)
 
 > Private document QA using LangChain + vector search
 

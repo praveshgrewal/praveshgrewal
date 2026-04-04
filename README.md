@@ -183,7 +183,7 @@ Teaching Python, SQL, Machine Learning, Power BI & Advanced Excel to aspiring da
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-** AI insights** · ** Auto ML** · ** Chart generation** · ** PDF reports**
+ AI insights · Auto ML · Chart generation·  PDF reports
 
 </td>
 <td width="50%" valign="top">
@@ -199,16 +199,16 @@ Teaching Python, SQL, Machine Learning, Power BI & Advanced Excel to aspiring da
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=flat-square)
 
-**✅ Semantic search** · **✅ Hybrid retrieval** · **✅ Multi-doc chat** · **✅ API ready**
+Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 OSINT Recon Toolkit
+###  OSINT Recon Toolkit
 [![Repo](https://img.shields.io/badge/GitHub-OSINT%20Toolkit-ff4f81?style=flat-square&logo=github)](https://github.com/praveshgrewal)
-![Status](https://img.shields.io/badge/🟢%20Completed-00c853?style=flat-square)
+![Status](https://img.shields.io/badge/%20Completed-00c853?style=flat-square)
 
 > Automated reconnaissance & OSINT pipeline
 
@@ -217,7 +217,7 @@ Teaching Python, SQL, Machine Learning, Power BI & Advanced Excel to aspiring da
 ![Shodan](https://img.shields.io/badge/Shodan%20API-CC0000?style=flat-square)
 ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
-**✅ Port scanning** · **✅ Subdomain enum** · **✅ CVE lookup** · **✅ HTML reports**
+**Port scanning** · **✅ Subdomain enum** · **✅ CVE lookup** · **✅ HTML reports**
 
 </td>
 <td width="50%" valign="top">

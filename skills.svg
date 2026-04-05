@@ -1,0 +1,100 @@
+<svg viewBox="0 0 860 320" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <style>
+      .bg { fill: #070714; }
+      .sec-title { font-family:'Space Grotesk','Segoe UI',sans-serif; font-size:11px; font-weight:600; fill:#7928ca; letter-spacing:3px; text-transform:uppercase; }
+      .sec-line  { stroke:rgba(121,40,202,0.35); stroke-width:0.8; }
+      .sk-name   { font-family:'Fira Code','Consolas',monospace; font-size:12px; fill:rgba(255,255,255,0.65); }
+      .sk-pct    { font-family:'Fira Code','Consolas',monospace; font-size:11px; fill:rgba(255,255,255,0.3); }
+      .sk-track  { fill:rgba(255,255,255,0.06); rx:3; }
+      /* bar fills with grow animation */
+      .bar-purple { fill:url(#bp); animation: growBar 1.6s ease both; transform-origin: left center; }
+      .bar-pink   { fill:url(#bpk); animation: growBar 1.8s ease both; transform-origin: left center; }
+      .bar-cyan   { fill:url(#bc); animation: growBar 2.0s ease both; transform-origin: left center; }
+      .bar-green  { fill:url(#bg); animation: growBar 2.2s ease both; transform-origin: left center; }
+      @keyframes growBar {
+        from { transform: scaleX(0); opacity: 0; }
+        to   { transform: scaleX(1); opacity: 1; }
+      }
+      .sk-dot-p { fill:#7928ca; }
+      .sk-dot-k { fill:#ff4f81; }
+      .sk-dot-c { fill:#00d4ff; }
+      .sk-dot-g { fill:#10b981; }
+    </style>
+    <linearGradient id="bp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928ca"/><stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="bpk" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4f81"/><stop offset="100%" stop-color="#f43f5e"/>
+    </linearGradient>
+    <linearGradient id="bc" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9"/><stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/><stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="320" class="bg"/>
+
+  <!-- section title -->
+  <text x="40" y="38" class="sec-title">Skill Proficiency</text>
+  <line x1="185" y1="32" x2="820" y2="32" class="sec-line"/>
+
+  <!-- COL 1 -->
+  <!-- Python 90% -->
+  <circle cx="46" cy="67" r="3.5" class="sk-dot-p"/>
+  <text x="58" y="72" class="sk-name">Python</text>
+  <text x="430" y="72" class="sk-pct">90%</text>
+  <rect x="452" y="60" width="370" height="8" rx="4" class="sk-track"/>
+  <rect x="452" y="60" width="333" height="8" rx="4" class="bar-purple"/>
+
+  <!-- Machine Learning 85% -->
+  <circle cx="46" cy="99" r="3.5" class="sk-dot-p"/>
+  <text x="58" y="104" class="sk-name">Machine Learning</text>
+  <text x="430" y="104" class="sk-pct">85%</text>
+  <rect x="452" y="92" width="370" height="8" rx="4" class="sk-track"/>
+  <rect x="452" y="92" width="315" height="8" rx="4" class="bar-purple"/>
+
+  <!-- RAG / LLMs 88% -->
+  <circle cx="46" cy="131" r="3.5" class="sk-dot-k"/>
+  <text x="58" y="136" class="sk-name">RAG / LLMs</text>
+  <text x="430" y="136" class="sk-pct">88%</text>
+  <rect x="452" y="124" width="370" height="8" rx="4" class="sk-track"/>
+  <rect x="452" y="124" width="326" height="8" rx="4" class="bar-pink"/>
+
+  <!-- FastAPI / Django 88% -->
+  <circle cx="46" cy="163" r="3.5" class="sk-dot-c"/>
+  <text x="58" y="168" class="sk-name">FastAPI / Django</text>
+  <text x="430" y="168" class="sk-pct">88%</text>
+  <rect x="452" y="156" width="370" height="8" rx="4" class="sk-track"/>
+  <rect x="452" y="156" width="326" height="8" rx="4" class="bar-cyan"/>
+
+  <!-- SQL / Databases 88% -->
+  <circle cx="46" cy="195" r="3.5" class="sk-dot-c"/>
+  <text x="58" y="200" class="sk-name">SQL / Databases</text>
+  <text x="430" y="200" class="sk-pct">88%</text>
+  <rect x="452" y="188" width="370" height="8" rx="4" class="sk-track"/>
+  <rect x="452" y="188" width="326" height="8" rx="4" class="bar-cyan"/>
+
+  <!-- Deep Learning 80% -->
+  <circle cx="46" cy="227" r="3.5" class="sk-dot-p"/>
+  <text x="58" y="232" class="sk-name">Deep Learning</text>
+  <text x="430" y="232" class="sk-pct">80%</text>
+  <rect x="452" y="220" width="370" height="8" rx="4" class="sk-track"/>
+  <rect x="452" y="220" width="296" height="8" rx="4" class="bar-purple"/>
+
+  <!-- GCP / Azure 72% -->
+  <circle cx="46" cy="259" r="3.5" class="sk-dot-g"/>
+  <text x="58" y="264" class="sk-name">GCP / Azure / AWS</text>
+  <text x="430" y="264" class="sk-pct">72%</text>
+  <rect x="452" y="252" width="370" height="8" rx="4" class="sk-track"/>
+  <rect x="452" y="252" width="266" height="8" rx="4" class="bar-green"/>
+
+  <!-- Cybersecurity 70% -->
+  <circle cx="46" cy="291" r="3.5" class="sk-dot-k"/>
+  <text x="58" y="296" class="sk-name">Cybersecurity</text>
+  <text x="430" y="296" class="sk-pct">70%</text>
+  <rect x="452" y="284" width="370" height="8" rx="4" class="sk-track"/>
+  <rect x="452" y="284" width="259" height="8" rx="4" class="bar-pink"/>
+</svg>

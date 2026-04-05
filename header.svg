@@ -1,0 +1,249 @@
+<svg viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;family=Space+Grotesk:wght@300;500;700&amp;display=swap');
+
+      .bg-base { fill: #050510; }
+      .bg-mid  { fill: #0d0a2e; }
+
+      /* grid lines */
+      .grid-h { stroke: rgba(121,40,202,0.08); stroke-width: 1; }
+      .grid-v { stroke: rgba(121,40,202,0.08); stroke-width: 1; }
+
+      /* glow orbs */
+      .orb1 { fill: rgba(121,40,202,0.18); }
+      .orb2 { fill: rgba(255,79,129,0.10); }
+      .orb3 { fill: rgba(0,212,255,0.08); }
+
+      /* name text */
+      .name {
+        font-family: 'Space Grotesk', 'Segoe UI', sans-serif;
+        font-size: 62px;
+        font-weight: 700;
+        fill: url(#nameGrad);
+        letter-spacing: -1px;
+        animation: fadeSlideUp 1.2s ease both;
+      }
+
+      /* subtitle */
+      .subtitle {
+        font-family: 'Space Grotesk', 'Segoe UI', sans-serif;
+        font-size: 15px;
+        font-weight: 300;
+        fill: rgba(255,255,255,0.55);
+        letter-spacing: 3.5px;
+        text-transform: uppercase;
+        animation: fadeSlideUp 1.4s ease both;
+      }
+
+      /* pill badges */
+      .pill-bg-purple { fill: rgba(121,40,202,0.22); rx: 12; }
+      .pill-bg-pink   { fill: rgba(255,79,129,0.18); }
+      .pill-bg-cyan   { fill: rgba(0,212,255,0.14); }
+      .pill-bg-red    { fill: rgba(255,60,60,0.14); }
+      .pill-stroke-purple { stroke: rgba(121,40,202,0.6); stroke-width: 0.8; fill: none; }
+      .pill-stroke-pink   { stroke: rgba(255,79,129,0.5); stroke-width: 0.8; fill: none; }
+      .pill-stroke-cyan   { stroke: rgba(0,212,255,0.45); stroke-width: 0.8; fill: none; }
+      .pill-stroke-red    { stroke: rgba(255,79,129,0.45); stroke-width: 0.8; fill: none; }
+      .pill-txt-purple { font-family: 'Space Grotesk','Segoe UI',sans-serif; font-size: 11px; font-weight: 500; fill: #c4b5fd; letter-spacing: .4px; }
+      .pill-txt-pink   { font-family: 'Space Grotesk','Segoe UI',sans-serif; font-size: 11px; font-weight: 500; fill: #fda4af; letter-spacing: .4px; }
+      .pill-txt-cyan   { font-family: 'Space Grotesk','Segoe UI',sans-serif; font-size: 11px; font-weight: 500; fill: #67e8f9; letter-spacing: .4px; }
+      .pill-txt-red    { font-family: 'Space Grotesk','Segoe UI',sans-serif; font-size: 11px; font-weight: 500; fill: #fca5a5; letter-spacing: .4px; }
+
+      /* dot row */
+      .dot-p { fill: #7928ca; }
+      .dot-k { fill: #ff4f81; }
+      .dot-c { fill: #00d4ff; }
+
+      /* divider line */
+      .divider { stroke: url(#divGrad); stroke-width: 1; }
+
+      /* stat numbers */
+      .stat-num {
+        font-family: 'Space Grotesk','Segoe UI',sans-serif;
+        font-size: 28px;
+        font-weight: 700;
+        fill: url(#statGrad);
+      }
+      .stat-lbl {
+        font-family: 'Space Grotesk','Segoe UI',sans-serif;
+        font-size: 10px;
+        fill: rgba(255,255,255,0.35);
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+      }
+      .stat-sep { stroke: rgba(121,40,202,0.25); stroke-width: 0.8; }
+
+      /* floating particles */
+      .p1 { fill: #7928ca; animation: float1 6s ease-in-out infinite; }
+      .p2 { fill: #ff4f81; animation: float2 8s ease-in-out infinite 1s; }
+      .p3 { fill: #00d4ff; animation: float3 7s ease-in-out infinite 2s; }
+      .p4 { fill: #a855f7; animation: float1 9s ease-in-out infinite 0.5s; }
+      .p5 { fill: #ff4f81; animation: float2 5s ease-in-out infinite 3s; }
+      .p6 { fill: #7928ca; animation: float3 10s ease-in-out infinite 1.5s; }
+
+      /* corner accent lines */
+      .corner-tl { stroke: #7928ca; stroke-width: 1.5; fill: none; opacity: 0.6; }
+      .corner-br { stroke: #ff4f81; stroke-width: 1.5; fill: none; opacity: 0.5; }
+
+      /* bottom shimmer bar */
+      .shimmer-bar { fill: url(#shimmerGrad); }
+
+      @keyframes fadeSlideUp {
+        from { opacity: 0; transform: translateY(18px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes float1 {
+        0%,100% { transform: translateY(0px) translateX(0px); opacity: 0.7; }
+        33%      { transform: translateY(-8px) translateX(4px); opacity: 1; }
+        66%      { transform: translateY(4px) translateX(-3px); opacity: 0.5; }
+      }
+      @keyframes float2 {
+        0%,100% { transform: translateY(0) translateX(0); opacity: 0.5; }
+        50%      { transform: translateY(-12px) translateX(6px); opacity: 0.9; }
+      }
+      @keyframes float3 {
+        0%,100% { transform: translateY(0) translateX(0); opacity: 0.6; }
+        40%      { transform: translateY(8px) translateX(-5px); opacity: 1; }
+        80%      { transform: translateY(-5px) translateX(3px); opacity: 0.4; }
+      }
+    </style>
+
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="45%"  stop-color="#d8b8ff"/>
+      <stop offset="100%" stop-color="#ff9de2"/>
+    </linearGradient>
+
+    <linearGradient id="statGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#ff4f81"/>
+    </linearGradient>
+
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="transparent"/>
+      <stop offset="30%"  stop-color="#7928ca" stop-opacity="0.7"/>
+      <stop offset="70%"  stop-color="#ff4f81" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+
+    <linearGradient id="shimmerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7928ca" stop-opacity="0"/>
+      <stop offset="20%"  stop-color="#7928ca" stop-opacity="0.8"/>
+      <stop offset="50%"  stop-color="#ff4f81" stop-opacity="1"/>
+      <stop offset="80%"  stop-color="#00d4ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="orbGrad1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#7928ca" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#7928ca" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbGrad2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#ff4f81" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ff4f81" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbGrad3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#00d4ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="860" height="280" fill="#050510"/>
+  <rect width="860" height="280" fill="url(#orbGrad1)" x="-100" y="-80" width="500" height="400"/>
+  <rect width="860" height="280" fill="url(#orbGrad2)" x="500" y="50"  width="400" height="350"/>
+  <rect width="860" height="280" fill="url(#orbGrad3)" x="200" y="-60" width="460" height="380"/>
+
+  <!-- grid -->
+  <line x1="0" y1="40"  x2="860" y2="40"  class="grid-h"/>
+  <line x1="0" y1="80"  x2="860" y2="80"  class="grid-h"/>
+  <line x1="0" y1="120" x2="860" y2="120" class="grid-h"/>
+  <line x1="0" y1="160" x2="860" y2="160" class="grid-h"/>
+  <line x1="0" y1="200" x2="860" y2="200" class="grid-h"/>
+  <line x1="0" y1="240" x2="860" y2="240" class="grid-h"/>
+  <line x1="86"  y1="0" x2="86"  y2="280" class="grid-v"/>
+  <line x1="172" y1="0" x2="172" y2="280" class="grid-v"/>
+  <line x1="258" y1="0" x2="258" y2="280" class="grid-v"/>
+  <line x1="344" y1="0" x2="344" y2="280" class="grid-v"/>
+  <line x1="430" y1="0" x2="430" y2="280" class="grid-v"/>
+  <line x1="516" y1="0" x2="516" y2="280" class="grid-v"/>
+  <line x1="602" y1="0" x2="602" y2="280" class="grid-v"/>
+  <line x1="688" y1="0" x2="688" y2="280" class="grid-v"/>
+  <line x1="774" y1="0" x2="774" y2="280" class="grid-v"/>
+
+  <!-- corner accents top-left -->
+  <polyline points="20,50 20,20 50,20" class="corner-tl"/>
+  <!-- corner accents bottom-right -->
+  <polyline points="840,230 840,260 810,260" class="corner-br"/>
+
+  <!-- floating particles -->
+  <circle cx="72"  cy="45"  r="2.5" class="p1"/>
+  <circle cx="780" cy="38"  r="2"   class="p2"/>
+  <circle cx="820" cy="180" r="3"   class="p3"/>
+  <circle cx="40"  cy="220" r="2"   class="p4"/>
+  <circle cx="700" cy="250" r="1.8" class="p5"/>
+  <circle cx="140" cy="150" r="1.5" class="p6"/>
+  <circle cx="650" cy="70"  r="2.2" class="p1"/>
+  <circle cx="500" cy="250" r="1.8" class="p3"/>
+
+  <!-- NAME -->
+  <text x="430" y="108" text-anchor="middle" class="name">Pravesh Grewal</text>
+
+  <!-- subtitle dots -->
+  <circle cx="310" cy="125" r="2.5" class="dot-p"/>
+  <circle cx="430" cy="125" r="2.5" class="dot-k"/>
+  <circle cx="550" cy="125" r="2.5" class="dot-c"/>
+
+  <!-- subtitle text -->
+  <text x="430" y="142" text-anchor="middle" class="subtitle">AI Engineer · Trainer · Full Stack Developer</text>
+
+  <!-- divider -->
+  <line x1="160" y1="156" x2="700" y2="156" class="divider"/>
+
+  <!-- PILL BADGES -->
+  <!-- AI / ML -->
+  <rect x="133" y="164" width="96" height="22" rx="11" class="pill-bg-purple"/>
+  <rect x="133" y="164" width="96" height="22" rx="11" class="pill-stroke-purple"/>
+  <text x="181" y="179" text-anchor="middle" class="pill-txt-purple">AI / ML Engineer</text>
+
+  <!-- Cybersecurity -->
+  <rect x="239" y="164" width="110" height="22" rx="11" class="pill-bg-pink"/>
+  <rect x="239" y="164" width="110" height="22" rx="11" class="pill-stroke-pink"/>
+  <text x="294" y="179" text-anchor="middle" class="pill-txt-pink">Cybersecurity</text>
+
+  <!-- Full Stack -->
+  <rect x="359" y="164" width="96" height="22" rx="11" class="pill-bg-cyan"/>
+  <rect x="359" y="164" width="96" height="22" rx="11" class="pill-stroke-cyan"/>
+  <text x="407" y="179" text-anchor="middle" class="pill-txt-cyan">Full Stack Dev</text>
+
+  <!-- Educator -->
+  <rect x="465" y="164" width="122" height="22" rx="11" class="pill-bg-red"/>
+  <rect x="465" y="164" width="122" height="22" rx="11" class="pill-stroke-red"/>
+  <text x="526" y="179" text-anchor="middle" class="pill-txt-pink">EntryGlobe · YouTube</text>
+
+  <!-- Noida India -->
+  <rect x="597" y="164" width="94" height="22" rx="11" class="pill-bg-purple"/>
+  <rect x="597" y="164" width="94" height="22" rx="11" class="pill-stroke-purple"/>
+  <text x="644" y="179" text-anchor="middle" class="pill-txt-purple">Noida, India</text>
+
+  <!-- STAT BAR dividers -->
+  <line x1="160" y1="198" x2="700" y2="198" class="stat-sep"/>
+  <line x1="347" y1="204" x2="347" y2="268" class="stat-sep"/>
+  <line x1="513" y1="204" x2="513" y2="268" class="stat-sep"/>
+
+  <!-- stat 1: Projects -->
+  <text x="253" y="236" text-anchor="middle" class="stat-num">6+</text>
+  <text x="253" y="255" text-anchor="middle" class="stat-lbl">Active Projects</text>
+
+  <!-- stat 2: Cloud Platforms -->
+  <text x="430" y="236" text-anchor="middle" class="stat-num">3</text>
+  <text x="430" y="255" text-anchor="middle" class="stat-lbl">Cloud Platforms</text>
+
+  <!-- stat 3: Tech Areas -->
+  <text x="606" y="236" text-anchor="middle" class="stat-num">10+</text>
+  <text x="606" y="255" text-anchor="middle" class="stat-lbl">Tech Areas</text>
+
+  <!-- bottom shimmer -->
+  <rect x="0" y="277" width="860" height="3" class="shimmer-bar"/>
+</svg>

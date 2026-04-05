@@ -1,0 +1,140 @@
+<svg viewBox="0 0 860 390" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <style>
+      .bg  { fill: #070714; }
+      .sec-title { font-family:'Space Grotesk','Segoe UI',sans-serif; font-size:11px; font-weight:600; fill:#7928ca; letter-spacing:3px; text-transform:uppercase; }
+      .sec-line  { stroke:rgba(121,40,202,0.35); stroke-width:0.8; }
+      .card-bg   { fill:#0d0d22; }
+      .card-bdr  { stroke:rgba(255,255,255,0.07); stroke-width:0.8; fill:none; }
+      .card-top-active { fill:url(#active); }
+      .card-top-live   { fill:url(#live); }
+      .card-top-wip    { fill:url(#wip); }
+      .card-top-sec    { fill:url(#sec); }
+      .proj-name { font-family:'Space Grotesk','Segoe UI',sans-serif; font-size:14px; font-weight:600; fill:#e2e8f0; }
+      .proj-desc { font-family:'Space Grotesk','Segoe UI',sans-serif; font-size:11px; fill:rgba(255,255,255,0.42); }
+      .tag-bg-py  { fill:rgba(55,118,211,0.18); }
+      .tag-bg-fa  { fill:rgba(0,150,136,0.18); }
+      .tag-bg-nj  { fill:rgba(255,255,255,0.07); }
+      .tag-bg-cl  { fill:rgba(217,119,6,0.18); }
+      .tag-bg-az  { fill:rgba(0,120,212,0.18); }
+      .tag-bg-sk  { fill:rgba(247,147,30,0.18); }
+      .tag-bg-sb  { fill:rgba(62,207,142,0.18); }
+      .tag-bg-kl  { fill:rgba(85,124,148,0.18); }
+      .tag-bg-lc  { fill:rgba(28,60,60,0.45); }
+      .tag-txt-py { font-family:'Fira Code',monospace; font-size:9px; fill:#60a5fa; }
+      .tag-txt-fa { font-family:'Fira Code',monospace; font-size:9px; fill:#2dd4bf; }
+      .tag-txt-nj { font-family:'Fira Code',monospace; font-size:9px; fill:#e2e8f0; }
+      .tag-txt-cl { font-family:'Fira Code',monospace; font-size:9px; fill:#fcd34d; }
+      .tag-txt-az { font-family:'Fira Code',monospace; font-size:9px; fill:#7dd3fc; }
+      .tag-txt-sk { font-family:'Fira Code',monospace; font-size:9px; fill:#fdba74; }
+      .tag-txt-sb { font-family:'Fira Code',monospace; font-size:9px; fill:#6ee7b7; }
+      .tag-txt-kl { font-family:'Fira Code',monospace; font-size:9px; fill:#94a3b8; }
+      .tag-txt-lc { font-family:'Fira Code',monospace; font-size:9px; fill:#5eead4; }
+      .status-active { font-family:'Space Grotesk',sans-serif; font-size:8px; font-weight:600; fill:#fb7185; letter-spacing:1px; text-transform:uppercase; }
+      .status-live   { font-family:'Space Grotesk',sans-serif; font-size:8px; font-weight:600; fill:#34d399; letter-spacing:1px; text-transform:uppercase; }
+      .status-wip    { font-family:'Space Grotesk',sans-serif; font-size:8px; font-weight:600; fill:#fbbf24; letter-spacing:1px; text-transform:uppercase; }
+      .status-bg-active { fill:rgba(255,79,129,0.12); }
+      .status-bg-live   { fill:rgba(16,185,129,0.12); }
+      .status-bg-wip    { fill:rgba(245,158,11,0.12); }
+      /* card entrance animations */
+      .c1 { animation: slideCard 0.7s ease both 0.1s; }
+      .c2 { animation: slideCard 0.7s ease both 0.25s; }
+      .c3 { animation: slideCard 0.7s ease both 0.4s; }
+      .c4 { animation: slideCard 0.7s ease both 0.55s; }
+      .c5 { animation: slideCard 0.7s ease both 0.7s; }
+      .c6 { animation: slideCard 0.7s ease both 0.85s; }
+      @keyframes slideCard {
+        from { opacity:0; transform:translateY(20px); }
+        to   { opacity:1; transform:translateY(0); }
+      }
+    </style>
+    <linearGradient id="active" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928ca"/><stop offset="100%" stop-color="#ff4f81"/>
+    </linearGradient>
+    <linearGradient id="live" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/><stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="wip" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b"/><stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="sec" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4f81"/><stop offset="100%" stop-color="#f43f5e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="390" class="bg"/>
+
+  <!-- section title -->
+  <text x="40" y="38" class="sec-title">Project Showcase</text>
+  <line x1="210" y1="32" x2="820" y2="32" class="sec-line"/>
+
+  <!-- CARD 1: Datatoa (col1 row1) -->
+  <g class="c1">
+    <rect x="40"  y="52" width="386" height="148" rx="10" class="card-bg"/>
+    <rect x="40"  y="52" width="386" height="148" rx="10" class="card-bdr"/>
+    <rect x="40"  y="52" width="386" height="3"   rx="1"  class="card-top-active"/>
+    <rect x="350" y="62" width="66" height="18" rx="9" class="status-bg-active"/>
+    <text x="383" y="74" text-anchor="middle" class="status-active">Active Dev</text>
+    <text x="58"  y="80" class="proj-name">Datatoa — AI Data Platform</text>
+    <text x="58"  y="98" class="proj-desc">Claude SDK + FastAPI. Upload CSV, get</text>
+    <text x="58"  y="112" class="proj-desc">AI insights, charts, and PDF reports.</text>
+    <!-- tags -->
+    <rect x="58"  y="122" width="40" height="16" rx="8" class="tag-bg-py"/><text x="78"  y="133" text-anchor="middle" class="tag-txt-py">Python</text>
+    <rect x="104" y="122" width="44" height="16" rx="8" class="tag-bg-fa"/><text x="126" y="133" text-anchor="middle" class="tag-txt-fa">FastAPI</text>
+    <rect x="154" y="122" width="38" height="16" rx="8" class="tag-bg-nj"/><text x="173" y="133" text-anchor="middle" class="tag-txt-nj">Next.js</text>
+    <rect x="198" y="122" width="56" height="16" rx="8" class="tag-bg-cl"/><text x="226" y="133" text-anchor="middle" class="tag-txt-cl">Claude SDK</text>
+    <rect x="260" y="122" width="50" height="16" rx="8" class="tag-bg-sb"/><text x="285" y="133" text-anchor="middle" class="tag-txt-sb">Supabase</text>
+    <text x="58"  y="174" class="proj-desc" style="fill:rgba(255,255,255,0.25);font-size:10px">Upload → EDA → Auto ML → AI Insights → Charts → PDF</text>
+  </g>
+
+  <!-- CARD 2: Churn Predictor (col2 row1) -->
+  <g class="c2">
+    <rect x="434" y="52" width="386" height="148" rx="10" class="card-bg"/>
+    <rect x="434" y="52" width="386" height="148" rx="10" class="card-bdr"/>
+    <rect x="434" y="52" width="386" height="3"   rx="1"  class="card-top-live"/>
+    <rect x="736" y="62" width="74" height="18" rx="9" class="status-bg-live"/>
+    <text x="773" y="74" text-anchor="middle" class="status-live">Live on Azure</text>
+    <text x="452" y="80" class="proj-name">Customer Churn Predictor</text>
+    <text x="452" y="98" class="proj-desc">Flask ML app deployed on Azure App</text>
+    <text x="452" y="112" class="proj-desc">Service. Full CI/CD via GitHub Actions.</text>
+    <rect x="452" y="122" width="34" height="16" rx="8" class="tag-bg-py"/><text x="469"  y="133" text-anchor="middle" class="tag-txt-py">Flask</text>
+    <rect x="492" y="122" width="62" height="16" rx="8" class="tag-bg-sk"/><text x="523"  y="133" text-anchor="middle" class="tag-txt-sk">Scikit-learn</text>
+    <rect x="560" y="122" width="38" height="16" rx="8" class="tag-bg-az"/><text x="579"  y="133" text-anchor="middle" class="tag-txt-az">Azure</text>
+    <rect x="604" y="122" width="72" height="16" rx="8" class="tag-bg-az"/><text x="640"  y="133" text-anchor="middle" class="tag-txt-az">GitHub Actions</text>
+    <text x="452" y="174" class="proj-desc" style="fill:rgba(255,255,255,0.25);font-size:10px">Churn prediction · REST API · CI/CD pipeline · Azure deploy</text>
+  </g>
+
+  <!-- CARD 3: EntryGlobe Website (col1 row2) -->
+  <g class="c3">
+    <rect x="40"  y="214" width="386" height="148" rx="10" class="card-bg"/>
+    <rect x="40"  y="214" width="386" height="148" rx="10" class="card-bdr"/>
+    <rect x="40"  y="214" width="386" height="3"   rx="1"  class="card-top-wip"/>
+    <rect x="336" y="224" width="80" height="18" rx="9" class="status-bg-wip"/>
+    <text x="376" y="236" text-anchor="middle" class="status-wip">In Progress</text>
+    <text x="58"  y="242" class="proj-name">EntryGlobe Website</text>
+    <text x="58"  y="260" class="proj-desc">Full-stack education platform. Auth,</text>
+    <text x="58"  y="274" class="proj-desc">YouTube API v3 feed, dark-themed UI.</text>
+    <rect x="58"  y="284" width="38" height="16" rx="8" class="tag-bg-nj"/><text x="77"  y="295" text-anchor="middle" class="tag-txt-nj">Next.js</text>
+    <rect x="102" y="284" width="50" height="16" rx="8" class="tag-bg-sb"/><text x="127" y="295" text-anchor="middle" class="tag-txt-sb">Supabase</text>
+    <rect x="158" y="284" width="46" height="16" rx="8" class="tag-bg-fa" style="fill:rgba(6,182,212,0.18)"/><text x="181" y="295" text-anchor="middle" class="tag-txt-fa" style="fill:#67e8f9">Tailwind</text>
+    <rect x="210" y="284" width="70" height="16" rx="8" style="fill:rgba(255,0,0,0.14)"/><text x="245" y="295" text-anchor="middle" class="tag-txt-py" style="fill:#fca5a5">YouTube API v3</text>
+    <text x="58"  y="342" class="proj-desc" style="fill:rgba(255,255,255,0.25);font-size:10px">Auth · Storage · YouTube feed · Dark UI</text>
+  </g>
+
+  <!-- CARD 4: OSINT Toolkit (col2 row2) -->
+  <g class="c4">
+    <rect x="434" y="214" width="386" height="148" rx="10" class="card-bg"/>
+    <rect x="434" y="214" width="386" height="148" rx="10" class="card-bdr"/>
+    <rect x="434" y="214" width="386" height="3"   rx="1"  class="card-top-sec"/>
+    <rect x="724" y="224" width="86" height="18" rx="9" class="status-bg-live"/>
+    <text x="767" y="236" text-anchor="middle" class="status-live">Completed</text>
+    <text x="452" y="242" class="proj-name">OSINT Recon Toolkit</text>
+    <text x="452" y="260" class="proj-desc">Automated recon pipeline. Port scanning,</text>
+    <text x="452" y="274" class="proj-desc">subdomain enum, CVE lookup, HTML reports.</text>
+    <rect x="452" y="284" width="40" height="16" rx="8" class="tag-bg-py"/><text x="472" y="295" text-anchor="middle" class="tag-txt-py">Python</text>
+    <rect x="498" y="284" width="34" height="16" rx="8" class="tag-bg-az" style="fill:rgba(68,121,161,0.2)"/><text x="515" y="295" text-anchor="middle" class="tag-txt-az">Nmap</text>
+    <rect x="538" y="284" width="42" height="16" rx="8" style="fill:rgba(204,0,0,0.18)"/><text x="559" y="295" text-anchor="middle" class="tag-txt-py" style="fill:#fca5a5">Shodan</text>
+    <rect x="586" y="284" width="56" height="16" rx="8" class="tag-bg-kl"/><text x="614" y="295" text-anchor="middle" class="tag-txt-kl">Kali Linux</text>
+    <text x="452" y="342" class="proj-desc" style="fill:rgba(255,255,255,0.25);font-size:10px">Port scan · Subdomain enum · CVE lookup · HTML reports</text>
+  </g>
+</svg>

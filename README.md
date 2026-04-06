@@ -250,16 +250,16 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 
 | Skill | Proficiency | Level |
 |:------|:-----------:|:-----:|
-| 🐍 Python | `████████████████████░░░` | 90% |
-| 🤖 Machine Learning | `███████████████████░░░░` | 85% |
-| 🔍 RAG / LLMs | `████████████████████░░░` | 88% |
-| 🌐 Django / FastAPI | `████████████████████░░░` | 88% |
-| 🗃️ SQL / Databases | `████████████████████░░░` | 88% |
-| 🧠 Deep Learning | `██████████████████░░░░░` | 80% |
-| ☁️ GCP / AWS | `████████████████░░░░░░░` | 72% |
-| 🔐 Cybersecurity | `███████████████░░░░░░░░` | 70% |
-| 🐳 Docker / DevOps | `███████████████░░░░░░░░` | 68% |
-| ⚛️ React / JS | `█████████████░░░░░░░░░░` | 60% |
+|  Python | `████████████████████░░░` | 90% |
+|  Machine Learning | `███████████████████░░░░` | 85% |
+|  RAG / LLMs | `████████████████████░░░` | 88% |
+|  Django / FastAPI | `████████████████████░░░` | 88% |
+|  SQL / Databases | `████████████████████░░░` | 88% |
+|  Deep Learning | `██████████████████░░░░░` | 80% |
+|  GCP / AWS | `████████████████░░░░░░░` | 72% |
+|  Cybersecurity | `███████████████░░░░░░░░` | 70% |
+|  Docker / DevOps | `███████████████░░░░░░░░` | 68% |
+|  React / JS | `█████████████░░░░░░░░░░` | 60% |
 
 </div>
 
@@ -269,7 +269,7 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 ## ⚡ Tech Arsenal
 
 <details open>
-<summary><b>🤖 LLMs & Generative AI</b></summary>
+<summary><b> LLMs & Generative AI</b></summary>
 <br/>
 <div align="center">
 
@@ -283,7 +283,7 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 </details>
 
 <details>
-<summary><b>🔍 RAG & Vector Search</b></summary>
+<summary><b> RAG & Vector Search</b></summary>
 <br/>
 <div align="center">
 
@@ -299,7 +299,7 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 </details>
 
 <details>
-<summary><b>🧠 Deep Learning & Frameworks</b></summary>
+<summary><b> Deep Learning & Frameworks</b></summary>
 <br/>
 <div align="center">
 
@@ -313,7 +313,7 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 </details>
 
 <details>
-<summary><b>🔧 Fine-Tuning & MLOps</b></summary>
+<summary><b> Fine-Tuning & MLOps</b></summary>
 <br/>
 <div align="center">
 
@@ -327,7 +327,7 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 </details>
 
 <details>
-<summary><b>🔐 Cybersecurity</b></summary>
+<summary><b> Cybersecurity</b></summary>
 <br/>
 <div align="center">
 
@@ -346,7 +346,7 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 </details>
 
 <details>
-<summary><b>🌐 Web Development</b></summary>
+<summary><b> Web Development</b></summary>
 <br/>
 <div align="center">
 
@@ -364,7 +364,7 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 </details>
 
 <details>
-<summary><b>🗃️ Databases & Cloud</b></summary>
+<summary><b> Databases & Cloud</b></summary>
 <br/>
 <div align="center">
 
@@ -383,7 +383,7 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 ---
 
 <!-- ██ FULL STACK PROFILE ██ -->
-## 🧬 Full Stack Profile — In Code
+##  Full Stack Profile — In Code
 
 ```python
 # ┌─────────────────────────────────────────────────────────────┐
@@ -395,7 +395,7 @@ class PraveshGrewal:
     name       = "Pravesh Grewal"
     location   = "India 🇮🇳"
     contact    = "Grewalpravesh@outlook.com"
-    channel    = "youtube.com/@entryglobe  ·  Start Here. Go Global. 🚀"
+    channel    = "youtube.com/@entryglobe  ·  Start Here. Go Global. "
 
     # ── AI / ML / GenAI ──────────────────────────────────────────────────
     llms       = ["GPT-4o", "Claude 3.5 Sonnet", "Gemini 1.5 Pro", "Mistral", "LLaMA 3"]
@@ -418,11 +418,11 @@ class PraveshGrewal:
 
     # ── Currently Building ────────────────────────────────────────────────
     projects   = {
-        "Datatoa"    : "AI-powered one-click data analysis platform 🤖",
-        "EntryGlobe" : "Data Science education on YouTube 🎓"
+        "Datatoa"    : "AI-powered one-click data analysis platform ",
+        "EntryGlobe" : "Data Science education on YouTube "
     }
 
-    motto      = "Learn it. Build it. Break it. Repeat. 💥"
+    motto      = "Learn it. Build it. Break it. Repeat. "
 
     def run(self):
         while True:
@@ -432,7 +432,7 @@ class PraveshGrewal:
 ---
 
 <!-- ██ CERTIFICATIONS ██ -->
-## 🎓 Certifications & Learning Path
+##  Certifications & Learning Path
 
 <div align="center">
 
@@ -440,7 +440,7 @@ class PraveshGrewal:
 <tr>
 <td align="center" width="33%">
 
-**☁️ Cloud & AI**
+** Cloud & AI **
 
 ![GCP](https://img.shields.io/badge/GCP-AI%20%26%20ML%20Fundamentals-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -450,7 +450,7 @@ class PraveshGrewal:
 </td>
 <td align="center" width="33%">
 
-**🤖 AI / ML**
+** AI / ML **
 
 ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Deep%20Learning%20Specialization-0056D2?style=for-the-badge)
 
@@ -460,25 +460,25 @@ class PraveshGrewal:
 </td>
 <td align="center" width="33%">
 
-**🔐 Cybersecurity**
+** Cybersecurity **
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre%20Security%20%26%20SOC-212C42?style=for-the-badge)
 
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-🔄%20In%20Progress-ff4f81?style=flat-square)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-%20In%20Progress-ff4f81?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-Web%20Security%20Testing-orange?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-> **Legend:** 🔄 In Progress &nbsp;|&nbsp; ✅ Completed &nbsp;|&nbsp; 📅 Planned
+> **Legend:**  In Progress &nbsp;|&nbsp;  Completed &nbsp;|&nbsp;  Planned
 
 </div>
 
 ---
 
 <!-- ██ YOUTUBE ██ -->
-## 📺 EntryGlobe — Latest Content
+##  EntryGlobe — Latest Content
 
 <div align="center">
 
@@ -509,7 +509,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ---
 
 <!-- ██ GITHUB STATS ██ -->
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -534,7 +534,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ---
 
 <!-- ██ CONTRIBUTION SNAKE ██ -->
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -551,7 +551,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ---
 
 <!-- ██ CONNECT ██ -->
-## 🌐 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -563,7 +563,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <br/>
 
-> 💡 **Open to:** AI/ML collaborations · Freelance projects · EdTech partnerships · Speaking opportunities
+>  **Open to:** AI/ML collaborations · Freelance projects · EdTech partnerships · Speaking opportunities
 
 </div>
 
@@ -572,7 +572,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 <!-- ██ QUOTE ██ -->
 <div align="center">
 
-### 💥 Dev Motto
+###  Dev Motto
 
 > *"Learn it. Build it. Break it. Repeat."*
 >
@@ -583,4 +583,4 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ---
 
 <!-- ██ FOOTER ██ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:ff4f81,100:00bfff&height=150&section=footer&text=🧠%20AI%20+%20🔐%20Security%20+%20🌐%20Web%20=%20The%20Complete%20Stack&fontSize=19&fontColor=ffffff&animation=fadeIn&desc=Thanks%20for%20visiting!%20Drop%20a%20⭐%20if%20you%20like%20my%20work!&descSize=14&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:ff4f81,100:00bfff&height=150&section=footer&text=%20AI%20+%20%20Security%20+%20%20Web%20=%20The%20Complete%20Stack&fontSize=19&fontColor=ffffff&animation=fadeIn&desc=Thanks%20for%20visiting!%20Drop%20a%20%20if%20you%20like%20my%20work!&descSize=14&descAlignY=78" width="100%"/>

@@ -188,7 +188,7 @@ Teaching Python, SQL, Machine Learning, Power BI & Advanced Excel to aspiring da
 </td>
 <td width="50%" valign="top">
 
-### 🔍 RAG Knowledge Engine
+###  RAG Knowledge Engine
 [![Repo](https://img.shields.io/badge/GitHub-RAG%20Engine-7928ca?style=flat-square&logo=github)](https://github.com/praveshgrewal)
 ![Status](https://img.shields.io/badge/%20In%20Progress-ffd600?style=flat-square)
 
@@ -217,14 +217,14 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 ![Shodan](https://img.shields.io/badge/Shodan%20API-CC0000?style=flat-square)
 ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
-**Port scanning** · **✅ Subdomain enum** · **✅ CVE lookup** · **✅ HTML reports**
+**Port scanning** · **Subdomain enum** · **CVE lookup** · **HTML reports**
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 LLM Fine-Tuning Pipeline
+###  LLM Fine-Tuning Pipeline
 [![Repo](https://img.shields.io/badge/GitHub-LLM%20Finetune-7928ca?style=flat-square&logo=github)](https://github.com/praveshgrewal)
-![Status](https://img.shields.io/badge/🟡%20In%20Progress-ffd600?style=flat-square)
+![Status](https://img.shields.io/badge/%20In%20Progress-ffd600?style=flat-square)
 
 > LoRA/QLoRA fine-tuning on custom domain data
 
@@ -233,7 +233,7 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 ![PEFT](https://img.shields.io/badge/PEFT%20%7C%20LoRA-7928ca?style=flat-square)
 ![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square)
 
-**✅ 4-bit quant** · **✅ Instruction tuning** · **✅ DPO** · **✅ Model eval dashboard**
+**4-bit quant** · **Instruction tuning** · **DPO** · **Model eval dashboard**
 
 </td>
 </tr>
@@ -244,7 +244,7 @@ Semantic search ·  Hybrid retrieval ·  Multi-doc chat · API ready
 ---
 
 <!-- ██ SKILL PROFICIENCY ██ -->
-## 📊 Skill Proficiency
+##  Skill Proficiency
 
 <div align="center">
 
@@ -440,7 +440,7 @@ class PraveshGrewal:
 <tr>
 <td align="center" width="33%">
 
-** Cloud & AI **
+**Cloud & AI**
 
 ![GCP](https://img.shields.io/badge/GCP-AI%20%26%20ML%20Fundamentals-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -450,7 +450,7 @@ class PraveshGrewal:
 </td>
 <td align="center" width="33%">
 
-** AI / ML **
+**AI / ML**
 
 ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Deep%20Learning%20Specialization-0056D2?style=for-the-badge)
 
@@ -460,7 +460,7 @@ class PraveshGrewal:
 </td>
 <td align="center" width="33%">
 
-** Cybersecurity **
+**Cybersecurity**
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre%20Security%20%26%20SOC-212C42?style=for-the-badge)
 
@@ -557,9 +557,9 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pravesh%20Grewal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pravesh-grewal)
 [![YouTube](https://img.shields.io/badge/YouTube-EntryGlobe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@entryglobe)
-[![Medium](https://img.shields.io/badge/Medium-@studyjiger-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@studyjiger)
-[![Instagram](https://img.shields.io/badge/Instagram-@codegrewal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codegrewal)
-[![Email](https://img.shields.io/badge/Email-Grewalpravesh@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Grewalpravesh@outlook.com)
+<!--  [![Medium](https://img.shields.io/badge/Medium-@studyjiger-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@studyjiger) -->
+[![Instagram](https://img.shields.io/badge/Instagram-@entryglobe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/entryglobe)
+[![Email](https://img.shields.io/badge/Email-entryglobe@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:entryglobe@gmail.com)
 
 <br/>
 

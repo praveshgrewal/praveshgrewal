@@ -475,8 +475,8 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 [![EntryGlobe](https://img.shields.io/badge/▶_Watch_EntryGlobe-Start_Here._Go_Global.-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@entryglobe)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![What you think about this ? #ai #datascience](https://ytcards.demolab.com/?id=wpfn2zcU-F8&title=What+you+think+about+this+%3F+%23ai+%23datascience&lang=en&timestamp=1774544546&background_color=%230d1117&title_color=%23ffffff&stats_color=%238892a0&max_title_lines=1&width=250&border_radius=8 "What you think?")](https://www.youtube.com/shorts/wpfn2zcU-F8)
-[![We have another reason #ai #entryglobe #datascience](https://ytcards.demolab.com/?id=KJ29lHeKgos&title=We+have+another+reason+%23ai+%23entryglobe&lang=en&timestamp=1774450705&background_color=%230d1117&title_color=%23ffffff&stats_color=%238892a0&max_title_lines=1&width=250&border_radius=8 "Another reason")](https://www.youtube.com/shorts/KJ29lHeKgos)
+[![What you think about this ? #ai #datascience #tech #entryglobe](https://ytcards.demolab.com/?id=wpfn2zcU-F8&title=What+you+think+about+this+%3F+%23ai+%23datascience+%23tech+%23entryglobe&lang=en&timestamp=1774544546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What you think about this ? #ai #datascience #tech #entryglobe")](https://www.youtube.com/shorts/wpfn2zcU-F8)
+[![We have another reason as well, but they both are main #ai #entryglobe #datascience #tech](https://ytcards.demolab.com/?id=KJ29lHeKgos&title=We+have+another+reason+as+well%2C+but+they+both+are+main+%23ai+%23entryglobe+%23datascience+%23tech&lang=en&timestamp=1774450705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "We have another reason as well, but they both are main #ai #entryglobe #datascience #tech")](https://www.youtube.com/shorts/KJ29lHeKgos)
 <!-- END YOUTUBE-CARDS -->
 
 </div>

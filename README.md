@@ -74,7 +74,7 @@ Not one thing. **Four** — welded together.
 
 By **morning** — fine-tuning LLMs, shipping RAG pipelines and pushing models to prod.  
 By **afternoon** — auditing networks on Kali, chasing CVEs, living in terminal windows.  
-By **evening** — teaching 100+ students why Python is the language of the decade.  
+By **evening** — teaching 1000+ students why Python is the language of the decade.  
 By **night** — committing code that didn't exist at sunrise.
 
 The stack compounds. The learning never stops.

@@ -467,6 +467,9 @@ They skip the hard parts. They assume prerequisites you don't have. They teach t
 ────────────────────────────────────────────────────────────────────────── -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Data Analysis & Data Science Full Course – Day 1 Introduction](https://ytcards.demolab.com/?id=Rdr-Ouu8JY0&title=Data+Analysis+%26+Data+Science+Full+Course+%E2%80%93+Day+1+Introduction&lang=en&timestamp=1779343073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Data Analysis & Data Science Full Course – Day 1 Introduction")](https://www.youtube.com/watch?v=Rdr-Ouu8JY0)
+[![What you think about this ? #ai #datascience #tech #entryglobe](https://ytcards.demolab.com/?id=wpfn2zcU-F8&title=What+you+think+about+this+%3F+%23ai+%23datascience+%23tech+%23entryglobe&lang=en&timestamp=1774544546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What you think about this ? #ai #datascience #tech #entryglobe")](https://www.youtube.com/shorts/wpfn2zcU-F8)
+[![We have another reason as well, but they both are main #ai #entryglobe #datascience #tech](https://ytcards.demolab.com/?id=KJ29lHeKgos&title=We+have+another+reason+as+well%2C+but+they+both+are+main+%23ai+%23entryglobe+%23datascience+%23tech&lang=en&timestamp=1774450705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "We have another reason as well, but they both are main #ai #entryglobe #datascience #tech")](https://www.youtube.com/shorts/KJ29lHeKgos)
 <!-- END YOUTUBE-CARDS -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>

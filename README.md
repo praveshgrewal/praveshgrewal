@@ -1,236 +1,347 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
-     PRAVESH GREWAL  —  GitHub Profile
-     NEXUS EDITION // v7.0  —  "BUILD · BREAK · TEACH · SHIP"
+     PRAVESH GREWAL — github.com/praveshgrewal
+     OPERATOR EDITION // v8.0 — "THE STACK NEVER SLEEPS"
      ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ████████████████  HERO  ████████████████ -->
+<!-- ████████████████  HEADER  ████████████████ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=24,12,20,30,2&height=220&section=header&text=PRAVESH%20GREWAL&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=65&stroke=ff4f81&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,30,24&height=270&section=header&text=PRAVESH%20GREWAL&fontSize=72&fontColor=00e5ff&animation=fadeIn&fontAlignY=68&desc=AI+%2F+ML+Engineer+·+Security+Researcher+·+Builder+·+Educator&descSize=17&descColor=c0caf5&descAlignY=84&stroke=00e5ff&strokeWidth=1.5" width="100%"/>
 
 <br/>
 
-```
-◈ ─────────────────────────────────────────────────────────────────────── ◈
-     B U I L D  ·  B R E A K  ·  T E A C H  ·  S H I P
-◈ ─────────────────────────────────────────────────────────────────────── ◈
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=760&height=46&lines=AI+%2F+ML+Engineer;Security+Researcher;Full-Stack+Developer;Data+Educator+%40+SkillCircle;Datatoa+·+Founder+%26+Builder;EntryGlobe+·+Start+Here.+Go+Global.;The+stack+never+sleeps.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=600&color=7928CA&center=true&vCenter=true&width=760&height=48&lines=AI+%2F+ML+Engineer;Security+Researcher;Full-Stack+Developer;Data+Educator+%40+SkillCircle;EntryGlobe+Founder;always+day+one.)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://img.shields.io/badge/●_ONLINE-00ff88?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FOCUS-LLM_Engineering-7928ca?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SHIPPING-Datatoa_v1-ff4f81?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/TEACHING-Data_Science-00bfff?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/BREAKING-CTF_%2F_OSCP-ffd600?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/●_ONLINE-39ff14?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FOCUS-LLM_Engineering-00e5ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SHIPPING-Datatoa_v1-ff3864?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TEACHING-1000%2B_Students-ffd60a?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/HACKING-OSCP_Path-a78bfa?style=flat-square&labelColor=0d1117"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=praveshgrewal&label=VIEWS&color=7928ca&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/praveshgrewal?label=FOLLOWERS&style=for-the-badge&color=ff4f81&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/praveshgrewal?label=STARS&style=for-the-badge&color=ffd600&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=praveshgrewal&label=VISITORS&color=00e5ff&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/praveshgrewal?label=FOLLOWERS&style=for-the-badge&color=ff3864&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/praveshgrewal?label=STARS&style=for-the-badge&color=ffd60a&labelColor=0d1117)
 
 </div>
 
 <br/>
 
-<!-- ████████████████  ABOUT  ████████████████ -->
+<!-- ████████████████  BOOT SEQUENCE  ████████████████ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   OPERATOR OS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   INITIALIZING   ║
+║   ────────────────────────────────────────────────────────────────────  ║
+║   [ ✓ ]  AI / ML Engine  ────────  Models loaded. Pipelines live.       ║
+║   [ ✓ ]  Security Module  ───────  Kali armed. CVEs in queue.           ║
+║   [ ✓ ]  Full-Stack Runtime  ────  APIs hot. Next.js compiling.         ║
+║   [ ✓ ]  Teaching Protocol  ────── 1000+ minds connected. Broadcasting. ║
+║   [ ✓ ]  Datatoa v0.7  ──────────  One-click AI analysis. Shipping.     ║
+║   [ ✓ ]  EntryGlobe  ────────────  Start Here. Go Global.               ║
+║                                                                          ║
+║   STATUS: ALL SYSTEMS NOMINAL ─────────── WELCOME TO THE NEXUS          ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
+
+<br/>
+
+<!-- ████████████████  IDENTITY  ████████████████ -->
 
 <table>
 <tr>
-<td width="46%" valign="top">
+<td width="44%" valign="top">
 
 ```bash
-┌─[pravesh@nexus ~]
-└──╼ $ cat identity.yaml
+┌─[operator@nexus ~]
+└──╼ $ whoami --full
 
-  alias     : praveshgrewal
-  ─────────────────────────
-  engineer  : AI / ML
-  hacker    : Security Research
-  builder   : Full-Stack Dev
-  teacher   : Data Science
-  founder   : EntryGlobe
-  ─────────────────────────
-  shipping  : Datatoa
-  creed     : "Build it. Break it.
-               Teach it. Repeat."
-  status    : ● ready
-
+  name      → Pravesh Grewal
+  alias     → praveshgrewal
+  ──────────────────────────────
+  role[0]   → AI / ML Engineer
+  role[1]   → Security Researcher
+  role[2]   → Full-Stack Developer
+  role[3]   → Data Educator
+  ──────────────────────────────
+  company   → SkillCircle (trainer)
+  brand     → EntryGlobe (founder)
+  product   → Datatoa (building)
+  intern    → IBM AI / ML (alum)
+  ──────────────────────────────
+  location  → Noida, India
+  creed     → Build it. Break it.
+              Teach it. Ship it.
+  uptime    → 24 / 7 / 365
+  status    → ● ONLINE
 ```
 
 </td>
-<td width="54%" valign="top">
+<td width="56%" valign="top">
 
 <br/>
 
 ### `> /whoami`
 
-Not one thing. **Four** — welded together.
+I didn't pick one lane. I built a highway.
 
-By **morning** — fine-tuning LLMs, shipping RAG pipelines and pushing models to prod.  
-By **afternoon** — auditing networks on Kali, chasing CVEs, living in terminal windows.  
-By **evening** — teaching 1000+ students why Python is the language of the decade.  
-By **night** — committing code that didn't exist at sunrise.
+**6 AM** — LLM fine-tuning, RAG pipeline debugging, pushing to prod while the rest of the world sleeps. Coffee optional. Commits mandatory.
 
-The stack compounds. The learning never stops.
+**Noon** — Kali terminal open. Network enumeration. CVE research. Living in the recon layer where most engineers are afraid to look.
+
+**Evening** — Classroom of 1000+ students who needed someone to translate the noise of tech into signal. That someone became me.
+
+**Midnight** — Code that didn't exist at sunrise. Committed. Shipped. Documented. Repeat.
+
+The four disciplines don't compete. They **compound.** A security mindset builds more robust ML systems. Teaching forces mastery. Shipping reveals every gap that theory never shows.
+
+This is what a practitioner looks like.
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pravesh-grewal)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:entryglobe@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveshgrewal)
 [![YouTube](https://img.shields.io/badge/EntryGlobe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@EntryGlobe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveshgrewal)
 
 </td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
+
 <br/>
 
-<!-- ████████████████  NOW  ████████████████ -->
+<!-- ████████████████  LIVE STATUS  ████████████████ -->
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                         ◆  NOW  ◆                                   ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   🟢  BUILDING  →  Datatoa  ·  AI-powered one-click data platform   ║
-║   🟡  STUDYING  →  Multi-agent systems  ·  Advanced RAG patterns     ║
-║   🔴  BREAKING  →  CTF rooms  ·  OSCP path  ·  Kali deep-dives      ║
-║   📡  TEACHING  →  100+ students  ·  Python · ML · SQL · Power BI   ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+◆ ─────────────────────────  LIVE STATUS  ───────────────────────────── ◆
 ```
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:ff4f81,100:00bfff&height=3&width=100%25"/>
-
-<br/>
-
-<!-- ████████████████  THE FOUR  ████████████████ -->
-
-## 🧬 The Four Pillars
 
 <div align="center">
-
-```
-┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
-│                 │  │                 │  │                 │  │                 │
-│   🤖  AI / ML  │  │  🔒  SECURITY  │  │  🌐  FULLSTACK  │  │  📡  EDUCATOR   │
-│                 │  │                 │  │                 │  │                 │
-│  LLMs · RAG     │  │  Pen-Testing    │  │  FastAPI · Next │  │  SkillCircle    │
-│  Fine-tuning    │  │  OSINT · CTF    │  │  Django · React │  │  EntryGlobe     │
-│  Multi-agent    │  │  Kali · OWASP   │  │  Cloud · APIs   │  │  1000+ Students  │
-│  Anthropic SDK  │  │  Metasploit     │  │  Supabase       │  │  YouTube        │
-│                 │  │                 │  │                 │  │                 │
-└─────────────────┘  └─────────────────┘  └─────────────────┘  └─────────────────┘
-         ╲                   │                    │                    ╱
-          ╲══════════════════╪════════════════════╪══════════════════╱
-                             ◆    ONE  ENGINEER
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:ff4f81,100:00bfff&height=3&width=100%25"/>
-
-<br/>
-
-<!-- ████████████████  ENTRYGLOBE  ████████████████ -->
-
-<div align="center">
-
-`────────────────────────  TEACHING THE WORLD  ────────────────────────`
-
-</div>
-
-## 📡 EntryGlobe — *Start Here. Go Global.*
-
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center" width="33%">
 
-> **Beginner-friendly tech education — for real people.**  
-> *Data Science · Web Dev · Cybersecurity*
-
-EntryGlobe is where I distill 3+ years of hands-on engineering into content that actually makes sense. No jargon walls. No gatekeeping. Just signal.
+**🎯 NOW BUILDING**
 
 ```
-   ┌────────────────────────────────────────────┐
-   │  WHAT WE TEACH                             │
-   │                                            │
-   │   🐍  Python  →  Data Science track        │
-   │   🌐  Web Dev →  HTML · CSS · JS · Next    │
-   │   🔒  Cybersec →  Ethical Hacking basics   │
-   │   📊  ML      →  From data to deployment   │
-   │                                            │
-   └────────────────────────────────────────────┘
+Datatoa v1
+AI-powered CSV → Insight
+One-click. No code. No setup.
 ```
+[![Status](https://img.shields.io/badge/●_Active_Dev-ff3864?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
 
 </td>
-<td width="45%" valign="top" align="center">
+<td align="center" width="33%">
+
+**📡 NOW TEACHING**
+
+```
+SkillCircle · Croma Campus
+Python · SQL · ML · Power BI
+1000+ students. Growing daily.
+```
+[![Teaching](https://img.shields.io/badge/●_Broadcasting-ffd60a?style=flat-square&labelColor=0d1117)](https://youtube.com/@EntryGlobe)
+
+</td>
+<td align="center" width="33%">
+
+**🔴 NOW HACKING**
+
+```
+CTF Rooms · OSCP Path
+Metasploitable 2 Lab
+jshadow@kali:~$ _
+```
+[![Hacking](https://img.shields.io/badge/●_In_The_Lab-a78bfa?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
+
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
-[![EntryGlobe](https://img.shields.io/badge/YouTube-EntryGlobe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@EntryGlobe)
+<!-- ──── SPOTIFY NOW PLAYING ────────────────────────────────────────────────
+     Setup: https://github.com/kittinan/spotify-github-profile
+     1. Go to https://spotify-github-profile.kittinanx.com
+     2. Login with Spotify and copy your UID
+     3. Replace YOUR_SPOTIFY_UID below and uncomment the block
+
+<div align="center">
+
+**🎧 NOW PLAYING**
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=00e5ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+──────────────────────────────────────────────────────────────────────── -->
+
+<!-- ──── WAKATIME WEEKLY STATS ──────────────────────────────────────────────
+     Setup: https://wakatime.com → Settings → Privacy → Enable public profile
+     Then: https://github.com/anmol098/waka-readme-stats → add the action
+     Replace YOUR_WAKATIME_USERNAME below
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+──────────────────────────────────────────────────────────────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
+
+<br/>
+
+<!-- ████████████████  THE FOUR DISCIPLINES  ████████████████ -->
+
+## 🧬 The Four Disciplines
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖 AI / ML
 
 ```
-╔════════════════════════╗
-║                        ║
-║   📡 ENTRYGLOBE        ║
-║   ──────────────────   ║
-║                        ║
-║   🎯  Data Science     ║
-║   💻  Web Dev          ║
-║   🔐  Cybersecurity    ║
-║   🤖  ML & AI          ║
-║                        ║
-║   [ START HERE → ]     ║
-║                        ║
-╚════════════════════════╝
+LLMs · RAG Pipelines
+Fine-tuning · LoRA
+Multi-agent Systems
+Anthropic SDK
+scikit-learn · PyTorch
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🔒 SECURITY
+
+```
+Penetration Testing
+OSINT · CTF Labs
+Kali Linux
+Metasploit · Nmap
+OWASP Top 10
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🌐 FULL-STACK
+
+```
+FastAPI · Next.js
+Django · React
+Supabase · Redis
+Azure · Docker
+Flask · Tailwind
+```
+
+</td>
+<td align="center" width="25%">
+
+### 📡 EDUCATOR
+
+```
+SkillCircle (Trainer)
+EntryGlobe (Founder)
+1000+ Students
+Python · SQL
+Power BI · ML Dep.
 ```
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:ff4f81,100:00bfff&height=3&width=100%25"/>
-
 <br/>
 
-<!-- ████████████████  FLAGSHIP  ████████████████ -->
-
-<div align="center">
-
-`────────────────────────  NOW SHIPPING  ────────────────────────`
+```
+         🤖 ─────────────── 🔒
+          │                  │
+          │   ONE ENGINEER   │
+          │                  │
+          │  Builds systems  │
+          │  Breaks networks │
+          │  Teaches humans  │
+          │  Ships products  │
+          │                  │
+         🌐 ─────────────── 📡
+```
 
 </div>
 
-## 🎯 Datatoa — *Your Data. Analyzed. Instantly.*
+<br/>
+
+<!-- CREDENTIALS ROW -->
+<div align="center">
+
+![IBM](https://img.shields.io/badge/IBM-AI_%2F_ML_Intern_Alum-054ADA?style=flat-square&logo=ibm&logoColor=white&labelColor=0d1117)
+![NSQF](https://img.shields.io/badge/DGT%2FMSDE_Govt._of_India-NSQF_Level_6-FF6D00?style=flat-square&labelColor=0d1117)
+![CEH](https://img.shields.io/badge/Path-CEH_%2F_OSCP-ff3864?style=flat-square&labelColor=0d1117)
+![BCA](https://img.shields.io/badge/Education-BCA_·_Mangalayatan_Univ-00e5ff?style=flat-square&labelColor=0d1117)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
+
+<br/>
+
+<!-- ████████████████  DATATOA  ████████████████ -->
+
+<div align="center">
+
+```
+◆ ────────────────────────  FLAGSHIP PRODUCT  ──────────────────────── ◆
+```
+
+</div>
+
+## 🎯 Datatoa — *Upload. Analyze. Ship.*
 
 <table>
 <tr>
 <td width="56%" valign="top">
 
-> **AI-powered one-click data analysis platform.**  
-> *Like ChatGPT — but for your CSV files.*
+> **AI-powered one-click data analysis for non-technical teams.**  
+> *Think ChatGPT — but it actually knows your data.*
 
-Upload any dataset. Get back **full EDA**, a **trained ML model**, **Claude-generated insights**, visualizations, and a **downloadable PDF report**. No code. No setup. One click.
+You shouldn't need a data scientist to understand your own data.
+
+**Datatoa** takes any CSV and delivers a full EDA report, a trained predictive model, Claude-powered narrative insights, interactive visualizations, and a professional PDF — emailed directly to you. Upload. Click. Done. Zero code. Zero setup.
+
+Built for founders, analysts, and operators who need answers, not infrastructure.
 
 ```
-  ┌──────┐   ┌──────┐   ┌──────────┐   ┌──────────┐   ┌──────┐
-  │ CSV  │ → │ EDA  │ → │ AUTO-ML  │ → │ INSIGHTS │ → │ PDF  │
-  └──────┘   └──────┘   └──────────┘   └──────────┘   └──────┘
+ ┌─────────┐    ┌──────────┐    ┌───────────┐
+ │  UPLOAD │───►│ AUTO-EDA │───►│  AUTO-ML  │
+ │  .CSV   │    │  + STATS │    │  (RF/etc) │
+ └─────────┘    └──────────┘    └─────┬─────┘
+                                      │
+               ┌──────────────────────┘
+               ▼
+ ┌─────────────────┐    ┌──────────────────┐
+ │  CLAUDE INSIGHT │───►│  PDF + EMAIL     │
+ │  AI Narrative   │    │  Resend · Export │
+ └─────────────────┘    └──────────────────┘
 ```
 
-**Stack** — Anthropic Claude · FastAPI · Next.js · scikit-learn · Supabase · Resend
+**Stack** — Anthropic Claude SDK · FastAPI · Next.js · scikit-learn · Supabase · Resend · Pandas · Python
 
 </td>
 <td width="44%" valign="top" align="center">
@@ -238,120 +349,243 @@ Upload any dataset. Get back **full EDA**, a **trained ML model**, **Claude-gene
 <br/>
 
 ```
-╔═══════════════════════╗
-║                       ║
-║   DATATOA  v0.7       ║
-║   ───────────────     ║
-║                       ║
-║   ✓  AI Insights      ║
-║   ✓  Auto-EDA         ║
-║   ✓  Predictive ML    ║
-║   ✓  Email Reports    ║
-║   ✓  PDF Export       ║
-║   ⏳  Multi-file      ║
-║   🔜  Public Beta     ║
-║                       ║
-║   [ ● LIVE  DEV ]     ║
-║                       ║
-╚═══════════════════════╝
+┌───────────────────────────────┐
+│                               │
+│   D A T A T O A   v0.7       │
+│   ─────────────────────────   │
+│                               │
+│   PIPELINE STATUS             │
+│                               │
+│   ✅  CSV Ingestion            │
+│   ✅  Auto-EDA & Stats         │
+│   ✅  Visualizations           │
+│   ✅  Predictive ML            │
+│   ✅  Claude AI Insights       │
+│   ✅  PDF Export               │
+│   ✅  Email via Resend          │
+│   ✅  Supabase Storage          │
+│   ⏳  Multi-file Upload         │
+│   🔜  Public Beta              │
+│                               │
+│   [ ● ACTIVE DEVELOPMENT ]   │
+│                               │
+└───────────────────────────────┘
+```
+
+<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=black&labelColor=0d1117)
+![Claude](https://img.shields.io/badge/Claude_SDK-D97706?style=flat-square&labelColor=0d1117)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0d1117)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
+
+<br/>
+
+<!-- ████████████████  ENTRYGLOBE  ████████████████ -->
+
+<div align="center">
+
+```
+◆ ──────────────────────────  BROADCAST  ──────────────────────────── ◆
+```
+
+</div>
+
+## 📡 EntryGlobe — *Start Here. Go Global.*
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+> **Beginner-friendly tech education — built by a practitioner, not a presenter.**  
+> *Data Science · Web Dev · Cybersecurity*
+
+The internet is full of tutorials. Most of them lie.
+
+They skip the hard parts. They assume prerequisites you don't have. They teach theory that breaks the moment it meets real work.
+
+**EntryGlobe** is different. Every video comes from the same environment I use professionally. No gatekeeping. No jargon walls. Just the 80% that actually matters — in plain English.
+
+```
+  CONTENT TRACKS
+  ────────────────────────────────────────────────────
+  🐍  Python & Data Science  →  EDA to deployment
+  🌐  Web Development        →  HTML → Next.js
+  🔒  Cybersecurity          →  Ethical hacking 101
+  🤖  ML & AI               →  Models to production
+  📊  SQL & Analytics        →  Power BI · Excel
+  ────────────────────────────────────────────────────
+  Mission: Turn beginners into builders.
+```
+
+</td>
+<td width="44%" valign="top" align="center">
+
+<br/>
+
+[![YouTube](https://img.shields.io/badge/YouTube-EntryGlobe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@EntryGlobe)
+
+```
+╔═══════════════════════════════╗
+║                               ║
+║   📡  ENTRYGLOBE              ║
+║   ─────────────────────────   ║
+║                               ║
+║   Start Here. Go Global.      ║
+║                               ║
+║   🐍  Python · Data Science   ║
+║   💻  Web Dev · HTML → Next   ║
+║   🔐  Cybersecurity Basics    ║
+║   🤖  ML & AI Deployment      ║
+║   📊  SQL · Power BI          ║
+║                               ║
+║   [ → SUBSCRIBE ]             ║
+║                               ║
+╚═══════════════════════════════╝
 ```
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:ff4f81,100:00bfff&height=3&width=100%25"/>
+<!-- ──── YOUTUBE LATEST VIDEOS (AUTO-UPDATED) ─────────────────────────────
+     Setup: https://github.com/DenverCoder1/github-readme-youtube-cards
+     1. Find your YouTube channel ID from your channel URL
+     2. Add this GitHub Action to .github/workflows/youtube-cards.yml
+     3. Replace UCxxxxxxxxxxxxxxxxxxxxxxxx with your real Channel ID
+
+     Action workflow: https://github.com/DenverCoder1/github-readme-youtube-cards
+
+     The section below is auto-updated by GitHub Actions.
+────────────────────────────────────────────────────────────────────────── -->
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
 
 <br/>
 
-<!-- ████████████████  SELECTED WORK  ████████████████ -->
+<!-- ████████████████  PROJECT LAB  ████████████████ -->
 
 <div align="center">
 
-`────────────────────────  SELECTED WORK  ────────────────────────`
+```
+◆ ───────────────────────────  THE LAB  ─────────────────────────────── ◆
+```
 
 </div>
 
-<br/>
+## 🔬 Project Lab
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 RAG Knowledge Engine
-*Hybrid retrieval · multi-doc semantic search · private Q&A*
+#### 🎯 Datatoa
+*One-click AI data analysis platform · Built for non-technical users*
 
-`LangChain` · `Chroma` · `FAISS` · `OpenAI`
+`FastAPI` · `Next.js` · `Anthropic SDK` · `Supabase` · `scikit-learn`
 
-[![Status](https://img.shields.io/badge/●_In_Progress-ffd600?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔍 OSINT Recon Toolkit
-*Automated recon pipeline for ethical hackers*
-
-`Python` · `Nmap` · `Shodan` · `Kali Linux`
-
-[![Status](https://img.shields.io/badge/●_Shipped-00c853?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎯 LLM Fine-Tuning Lab
-*Domain adaptation via LoRA / QLoRA · 4-bit quantization*
-
-`PyTorch` · `HuggingFace` · `PEFT` · `WandB`
-
-[![Status](https://img.shields.io/badge/●_In_Progress-ffd600?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
+[![Status](https://img.shields.io/badge/●_Active_Dev-ff3864?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
 
 </td>
 <td width="50%" valign="top">
 
-#### 📉 Churn Prediction API
-*Random Forest · deployed on Azure App Service · live endpoint*
+#### 📉 mlflask — Churn Prediction API
+*Customer churn prediction · Random Forest · Live on Azure App Service*
 
 `Flask` · `scikit-learn` · `Azure`
 
-[![Status](https://img.shields.io/badge/●_Live-00c853?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
+[![Status](https://img.shields.io/badge/●_Live-39ff14?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
+[![Azure](https://img.shields.io/badge/Azure-Live_Endpoint-0078d4?style=flat-square&logo=microsoftazure&labelColor=0d1117)](https://churn-pravesh-2026.azurewebsites.net)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ AI Cybersec Toolkit
-*AI-assisted recon & analysis · cross-platform CLI*
+#### 🧠 RAG Knowledge Engine
+*Hybrid retrieval · multi-doc semantic search · private Q&A over documents*
 
-`FastAPI` · `Anthropic SDK` · `Docker` · `Kali`
+`LangChain` · `Chroma` · `FAISS` · `OpenAI`
 
-[![Status](https://img.shields.io/badge/●_Concept-888888?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
+[![Status](https://img.shields.io/badge/●_In_Progress-ffd60a?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 LLM Fine-Tuning Lab
+*Domain adaptation via LoRA / QLoRA · 4-bit quantization · WandB tracking*
+
+`PyTorch` · `HuggingFace` · `PEFT` · `WandB`
+
+[![Status](https://img.shields.io/badge/●_In_Progress-ffd60a?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔍 OSINT Recon Toolkit
+*Automated recon pipeline for ethical hackers · Kali-native*
+
+`Python` · `Nmap` · `Shodan` · `Kali Linux`
+
+[![Status](https://img.shields.io/badge/●_Shipped-39ff14?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
 
 </td>
 <td width="50%" valign="top">
 
 #### 📊 Titanic Analytics Dashboard
-*Interactive EDA dashboard · Pandas + Plotly*
+*Interactive EDA · full statistical breakdown · Streamlit deployment*
 
 `Python` · `Pandas` · `Plotly` · `Streamlit`
 
-[![Status](https://img.shields.io/badge/●_Shipped-00c853?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
+[![Status](https://img.shields.io/badge/●_Shipped-39ff14?style=flat-square&labelColor=0d1117)](https://github.com/praveshgrewal)
 
 </td>
 </tr>
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:ff4f81,100:00bfff&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
 
 <br/>
 
-<!-- ████████████████  STACK  ████████████████ -->
+<!-- ████████████████  RESEARCH QUEUE  ████████████████ -->
 
-## ⚡ Full Stack
+<div align="center">
+
+```
+◆ ─────────────────────────  CURRENTLY EXPLORING  ───────────────────── ◆
+```
+
+```
+  📚  Multi-agent systems          →  Orchestrating LLM pipelines at scale
+  🔬  Advanced RAG patterns        →  HyDE · Re-ranking · agentic retrieval
+  🛡️  OSCP prep                   →  Privilege escalation · Active Directory
+  ⚡  Model optimization           →  Quantization · inference speed
+  🌐  Serverless ML deployment     →  Edge inference · cost reduction
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
+
+<br/>
+
+<!-- ████████████████  TECH STACK  ████████████████ -->
+
+## ⚡ Full Tech Stack
 
 <div align="center">
 
@@ -365,13 +599,13 @@ Upload any dataset. Get back **full EDA**, a **trained ML model**, **Claude-gene
 ###### `AI · ML · LLMs`
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"/>
 &nbsp;
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&labelColor=0d1117)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&labelColor=0d1117)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&labelColor=0d1117)
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&labelColor=0d1117" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&labelColor=0d1117" alt="Claude"/>
 
 <br/><br/>
 
-###### `BACKEND · APIS · DATA`
+###### `BACKEND · APIS · DATABASES`
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,postgres,mysql,mongodb,redis&theme=dark"/>
 
 <br/><br/>
@@ -407,13 +641,13 @@ Upload any dataset. Get back **full EDA**, a **trained ML model**, **Claude-gene
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:ff4f81,100:00bfff&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
 
 <br/>
 
 <!-- ████████████████  TROPHIES  ████████████████ -->
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -421,7 +655,7 @@ Upload any dataset. Get back **full EDA**, a **trained ML model**, **Claude-gene
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:ff4f81,100:00bfff&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
 
 <br/>
 
@@ -431,21 +665,21 @@ Upload any dataset. Get back **full EDA**, a **trained ML model**, **Claude-gene
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=praveshgrewal&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=7928ca&icon_color=ff4f81&text_color=8892a0&bg_color=0d1117" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=praveshgrewal&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=00e5ff&icon_color=ff3864&text_color=8892a0&bg_color=0d1117" height="185"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveshgrewal&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=7928ca&text_color=8892a0&bg_color=0d1117" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveshgrewal&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00e5ff&text_color=8892a0&bg_color=0d1117" height="185"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=praveshgrewal&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7928CA&fire=FF4F81&currStreakLabel=7928CA&background=0d1117&stroke=0d1117&sideLabels=8892a0&dates=8892a0&currStreakNum=7928CA&sideNums=ff4f81&card_width=540"/>
+<img src="https://streak-stats.demolab.com?user=praveshgrewal&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00e5ff&fire=ff3864&currStreakLabel=00e5ff&background=0d1117&stroke=0d1117&sideLabels=8892a0&dates=8892a0&currStreakNum=00e5ff&sideNums=ff3864&card_width=540"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveshgrewal&theme=github-compact&hide_border=true&bg_color=0d1117&color=7928ca&line=ff4f81&point=7928ca&area=true&area_color=7928ca" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveshgrewal&theme=github-compact&hide_border=true&bg_color=0d1117&color=00e5ff&line=ff3864&point=00e5ff&area=true&area_color=00e5ff" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:ff4f81,100:00bfff&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
 
 <br/>
 
@@ -472,7 +706,7 @@ Upload any dataset. Get back **full EDA**, a **trained ML model**, **Claude-gene
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:ff4f81,100:00bfff&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
 
 <br/>
 
@@ -483,43 +717,57 @@ Upload any dataset. Get back **full EDA**, a **trained ML model**, **Claude-gene
 <br/>
 
 ```
-"The most dangerous engineer in the room is the one
- who can build it, break it, and teach it — all before lunch."
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                                                                      ║
+  ║   "I didn't specialize. I synthesized.                               ║
+  ║                                                                      ║
+  ║    The security researcher who fine-tunes LLMs.                      ║
+  ║    The ML engineer who breaks networks for fun.                      ║
+  ║    The educator who ships to production.                             ║
+  ║    The founder who still teaches on weekends.                        ║
+  ║                                                                      ║
+  ║    One machine. Four disciplines. Zero ceilings."                    ║
+  ║                                                                      ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
-### *I don't specialize.*
-### *I synthesize.*
+### *The stack never sleeps.*
 
 <br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:ff4f81,100:00bfff&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:00e5ff,100:ff3864&height=2&width=100%25"/>
 
 <br/>
 
 <!-- ████████████████  CONNECT  ████████████████ -->
 
-## 🤝 Let's collaborate
+## 🤝 Open for Collaboration
 
 <div align="center">
 
 <br/>
 
 ```
-   OPEN TO  ──→   AI / ML  collaborations  &  research
-                  Freelance  ML  engineering
-                  Security  audits  &  consulting
-                  Technical  content  &  speaking
-                  Open-source  contributions
+  ┌──────────────────────────────────────────────────────────────────┐
+  │                                                                  │
+  │   OPEN TO  ─────────────────────────────────────────────────     │
+  │                                                                  │
+  │   ◆  AI / ML engineering collaborations & research              │
+  │   ◆  Freelance ML system design and deployment                  │
+  │   ◆  Penetration testing & security consulting                  │
+  │   ◆  Technical content creation & speaking engagements          │
+  │   ◆  Data Science training, workshops & curriculum dev          │
+  │   ◆  Open-source contributions                                  │
+  │                                                                  │
+  └──────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pravesh-grewal)
-[![Email](https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:entryglobe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pravesh-grewal)
+[![Email](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:entryglobe@gmail.com)
 [![YouTube](https://img.shields.io/badge/EntryGlobe-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@EntryGlobe)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveshgrewal)
 
@@ -531,12 +779,13 @@ Upload any dataset. Get back **full EDA**, a **trained ML model**, **Claude-gene
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=24,12,20,30,2&height=160&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20,30,24&height=160&section=footer" width="100%"/>
 
-<sub><i>thanks for scrolling. now go build something that matters.</i></sub>
+<sub><i>built in public · taught to thousands · shipped to production · now building the next one.</i></sub>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════
-     END  ─  NEXUS EDITION v7.0  ─  Pravesh Grewal  ─  @praveshgrewal
+     END — OPERATOR EDITION v8.0 — Pravesh Grewal — @praveshgrewal
+     THE STACK NEVER SLEEPS
      ═══════════════════════════════════════════════════════════════════════ -->

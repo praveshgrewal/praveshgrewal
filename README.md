@@ -128,7 +128,7 @@ The stack compounds. The learning never stops.
 │                 │  │                 │  │                 │  │                 │
 │  LLMs · RAG     │  │  Pen-Testing    │  │  FastAPI · Next │  │  SkillCircle    │
 │  Fine-tuning    │  │  OSINT · CTF    │  │  Django · React │  │  EntryGlobe     │
-│  Multi-agent    │  │  Kali · OWASP   │  │  Cloud · APIs   │  │  100+ Students  │
+│  Multi-agent    │  │  Kali · OWASP   │  │  Cloud · APIs   │  │  1000+ Students  │
 │  Anthropic SDK  │  │  Metasploit     │  │  Supabase       │  │  YouTube        │
 │                 │  │                 │  │                 │  │                 │
 └─────────────────┘  └─────────────────┘  └─────────────────┘  └─────────────────┘
